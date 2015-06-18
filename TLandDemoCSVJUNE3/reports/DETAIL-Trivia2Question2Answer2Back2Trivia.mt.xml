@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<detail  generated="2015-06-03 18:01:08.465 EDT" projectPath="/Users/RonakPatel/monkeytalk/workspace/TLandDemoCSVJUNE3" agent="iOS v2.0.10_4 - 2014-12-13 17:09:42 EST" runner="MonkeyTalk IDE v2.0.10_4 - 2014-12-13 17:07:55 EST">
+    <script  comp="Script" id="Trivia2Question2Answer2Back2Trivia.mt" action="Run" mods="%thinktime=500 %timeout=2000" raw="Script Trivia2Question2Answer2Back2Trivia.mt Run %thinktime=500 %timeout=2000" idx="1" start="1433368861929" stop="1433368868463" duration="6.534" screenshot="screenshots/screenshot_2015-06-03_180108.png" result="failure">
+        <cmd  comp="Vars" id="*" action="define" args="Q A B C" mods="%thinktime=2000 %timeout=2000" raw="Vars * define Q A B C %thinktime=500 %timeout=2000" idx="2" start="1433368861929" stop="1433368861929" duration="0.0" result="ok">
+        </cmd>
+        <cmd  comp="Table" id="_tableView" action="SelectIndex" args="1" mods="%thinktime=500 %timeout=2000" raw="Table _tableView SelectIndex 1 %thinktime=500 %timeout=2000" idx="3" start="1433368861929" stop="1433368864347" duration="2.418" result="ok">
+        </cmd>
+        <cmd  comp="UILabel" id="*" action="Verify" args="&lt;Q&gt;" mods="%thinktime=500 %timeout=2000" raw="UILabel * Verify &lt;Q&gt; %thinktime=500 %timeout=2000" idx="4" start="1433368864347" stop="1433368868463" duration="4.116" screenshot="screenshots/screenshot_2015-06-03_180108.png" result="failure">
+            <msg><![CDATA[String "<Q>" does not match "QUESTION 1" or "Trivia" or "Trivia Challenge" or "0 OF 20 QUESTIONS ANSWERED" or "Question" or "What is the name of the storage area where the fabled time capsule that inspired the movie Tomorrowland was found?  " or "The Morgue" or "A:" or "Neverland" or "B:" or "Walt’s Vault" or "C:" or "Exhibit" or "Trivia" or "Fun Facts" or "Movie"]]>
+            </msg>
+        </cmd>
+    </script>
+</detail>

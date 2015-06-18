@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<detail  generated="2014-10-20 11:44:29.824 EDT" projectPath="/Users/RonakPatel/monkeytalk/workspace/MonkeyProjectSanta" agent="AndroidEmulator v2.0.1_257 - 2014-01-29 08:31:55 MST" runner="MonkeyTalk IDE v2.0.9-SNAPSHOT_488 - 2014-08-13 17:32:34 MDT">
+    <script  comp="Script" id="SnowGlobe1.mt" action="Run" mods="%thinktime=500 %timeout=2000" raw="Script SnowGlobe1.mt Run %thinktime=500 %timeout=2000" idx="1" start="1413819856610" stop="1413819869776" duration="13.166" screenshot="screenshots/screenshot_2014-10-20_114429.png" result="failure">
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="right" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe right %thinktime=500 %timeout=2000" idx="2" start="1413819856636" stop="1413819857306" duration="0.67" result="ok">
+            <msg><![CDATA[View with monkeyID panel is being clipped. Image with monkeyID camera_button is being clipped. Image with monkeyID #8 is being clipped. View with monkeyID ornament_container is being clipped. Image with monkeyID #9 is being clipped. Image with monkeyID #10 is being clipped. Image with monkeyID #11 is being clipped. Image with monkeyID #12 is being clipped. Image with monkeyID #13 is being clipped. Image with monkeyID #15 is being clipped. Image with monkeyID #14 is being clipped. Image with monkeyID #2 is being clipped. ]]>
+            </msg>
+        </cmd>
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe left %thinktime=500 %timeout=2000" idx="3" start="1413819857307" stop="1413819857844" duration="0.537" result="ok">
+        </cmd>
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe left %thinktime=500 %timeout=2000" idx="4" start="1413819857844" stop="1413819858369" duration="0.525" result="ok">
+        </cmd>
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe left %thinktime=500 %timeout=2000" idx="5" start="1413819858369" stop="1413819858907" duration="0.538" result="ok">
+            <msg><![CDATA[Image with monkeyID #3 is being clipped. ]]>
+            </msg>
+        </cmd>
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe left %thinktime=500 %timeout=2000" idx="6" start="1413819858907" stop="1413819859438" duration="0.531" result="ok">
+            <msg><![CDATA[Image with monkeyID #3 is being clipped. ]]>
+            </msg>
+        </cmd>
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe left %thinktime=500 %timeout=2000" idx="7" start="1413819859438" stop="1413819859968" duration="0.53" result="ok">
+        </cmd>
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="right" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe right %thinktime=500 %timeout=2000" idx="8" start="1413819859968" stop="1413819860496" duration="0.528" result="ok">
+        </cmd>
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="right" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe right %thinktime=500 %timeout=2000" idx="9" start="1413819860496" stop="1413819861028" duration="0.532" result="ok">
+        </cmd>
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="right" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe right %thinktime=500 %timeout=2000" idx="10" start="1413819861028" stop="1413819861579" duration="0.551" result="ok">
+            <msg><![CDATA[Image with monkeyID #3 is being clipped. ]]>
+            </msg>
+        </cmd>
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="right" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe right %thinktime=500 %timeout=2000" idx="11" start="1413819861580" stop="1413819862111" duration="0.531" result="ok">
+            <msg><![CDATA[Image with monkeyID #3 is being clipped. ]]>
+            </msg>
+        </cmd>
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="right" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe right %thinktime=500 %timeout=2000" idx="12" start="1413819862111" stop="1413819862650" duration="0.539" result="ok">
+        </cmd>
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe left %thinktime=500 %timeout=2000" idx="13" start="1413819862650" stop="1413819863184" duration="0.534" result="ok">
+        </cmd>
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="right" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe right %thinktime=500 %timeout=2000" idx="14" start="1413819863184" stop="1413819863717" duration="0.533" result="ok">
+        </cmd>
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe left %thinktime=500 %timeout=2000" idx="15" start="1413819863718" stop="1413819864268" duration="0.55" result="ok">
+            <msg><![CDATA[Image with monkeyID #3 is being clipped. ]]>
+            </msg>
+        </cmd>
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe left %thinktime=500 %timeout=2000" idx="16" start="1413819864268" stop="1413819864818" duration="0.55" result="ok">
+        </cmd>
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe left %thinktime=500 %timeout=2000" idx="17" start="1413819864818" stop="1413819865369" duration="0.551" result="ok">
+            <msg><![CDATA[Image with monkeyID #3 is being clipped. ]]>
+            </msg>
+        </cmd>
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="right" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe right %thinktime=500 %timeout=2000" idx="18" start="1413819865369" stop="1413819865918" duration="0.549" result="ok">
+            <msg><![CDATA[Image with monkeyID #3 is being clipped. ]]>
+            </msg>
+        </cmd>
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="right" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe right %thinktime=500 %timeout=2000" idx="19" start="1413819865918" stop="1413819866448" duration="0.53" result="ok">
+        </cmd>
+        <cmd  comp="Button" id="X" action="tap" args="24 31" mods="%thinktime=500 %timeout=2000" raw="Button X tap 24 31 %thinktime=500 %timeout=2000" idx="20" start="1413819866448" stop="1413819869759" duration="3.311" screenshot="screenshots/screenshot_2014-10-20_114429.png" result="failure">
+            <msg><![CDATA[Unable to find Button(X)]]>
+            </msg>
+        </cmd>
+    </script>
+</detail>

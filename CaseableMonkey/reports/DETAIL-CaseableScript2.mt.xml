@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<detail  generated="2014-10-21 17:53:09.249 EDT" projectPath="/Users/RonakPatel/monkeytalk/workspace/CaseableMonkey" agent="AndroidEmulator v2.0.1_257 - 2014-01-29 08:31:55 MST" runner="MonkeyTalk IDE v2.0.9-SNAPSHOT_488 - 2014-08-13 17:32:34 MDT">
+    <script  comp="Script" id="CaseableScript2.mt" action="Run" mods="%thinktime=500 %timeout=2000" raw="Script CaseableScript2.mt Run %thinktime=500 %timeout=2000" idx="1" start="1413928288364" stop="1413928389209" duration="100.845" screenshot="screenshots/screenshot_2014-10-21_175309.png" result="failure">
+        <cmd  comp="ItemSelector" id="deviceSpinner" action="selectIndex" args="1" mods="%thinktime=500 %timeout=2000" raw="ItemSelector deviceSpinner selectIndex 1 %thinktime=500 %timeout=2000" idx="2" start="1413928288390" stop="1413928294010" duration="5.62" result="ok">
+            <msg><![CDATA[View with monkeyID productDetailProgress is being clipped. View with monkeyID buttons is being clipped. Label with monkeyID productPrice is being clipped. Label with monkeyID productOwner is being clipped. Label with monkeyID productDescription is being clipped. Label with monkeyID productDesignName is being clipped. Label with monkeyID productDeviceName is being clipped. Button with monkeyID Add to Cart is being clipped. View with monkeyID Product Details, Navigate up is being clipped. View with monkeyID Navigate up is being clipped. Image with monkeyID More options is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. ]]>
+            </msg>
+        </cmd>
+        <cmd  comp="View" id="featuredHorizontalListView" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="View featuredHorizontalListView swipe left %thinktime=500 %timeout=2000" idx="3" start="1413928294010" stop="1413928299278" duration="5.268" result="ok">
+        </cmd>
+        <cmd  comp="View" id="featuredHorizontalListView" action="swipe" args="right" mods="%thinktime=500 %timeout=2000" raw="View featuredHorizontalListView swipe right %thinktime=500 %timeout=2000" idx="4" start="1413928299278" stop="1413928304544" duration="5.266" result="ok">
+        </cmd>
+        <cmd  comp="View" id="featuredHorizontalListView" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="View featuredHorizontalListView swipe left %thinktime=500 %timeout=2000" idx="5" start="1413928304544" stop="1413928309898" duration="5.354" result="ok">
+        </cmd>
+        <cmd  comp="View" id="featuredHorizontalListView" action="swipe" args="right" mods="%thinktime=500 %timeout=2000" raw="View featuredHorizontalListView swipe right %thinktime=500 %timeout=2000" idx="6" start="1413928309899" stop="1413928315158" duration="5.259" result="ok">
+        </cmd>
+        <cmd  comp="Scroller" id="*" action="swipe" args="down" mods="%thinktime=500 %timeout=2000" raw="Scroller * swipe down %thinktime=500 %timeout=2000" idx="7" start="1413928315158" stop="1413928320205" duration="5.047" result="ok">
+        </cmd>
+        <cmd  comp="Scroller" id="*" action="swipe" args="down" mods="%thinktime=500 %timeout=2000" raw="Scroller * swipe down %thinktime=500 %timeout=2000" idx="8" start="1413928320205" stop="1413928325310" duration="5.105" result="ok">
+        </cmd>
+        <cmd  comp="Scroller" id="*" action="swipe" args="down" mods="%thinktime=500 %timeout=2000" raw="Scroller * swipe down %thinktime=500 %timeout=2000" idx="9" start="1413928325310" stop="1413928330388" duration="5.078" result="ok">
+        </cmd>
+        <cmd  comp="View" id="featuredHorizontalListView" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="View featuredHorizontalListView swipe left %thinktime=500 %timeout=2000" idx="10" start="1413928330388" stop="1413928335818" duration="5.43" result="ok">
+        </cmd>
+        <cmd  comp="View" id="featuredHorizontalListView" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="View featuredHorizontalListView swipe left %thinktime=500 %timeout=2000" idx="11" start="1413928335818" stop="1413928341090" duration="5.272" result="ok">
+        </cmd>
+        <cmd  comp="View" id="featuredHorizontalListView" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="View featuredHorizontalListView swipe left %thinktime=500 %timeout=2000" idx="12" start="1413928341090" stop="1413928346369" duration="5.279" result="ok">
+        </cmd>
+        <cmd  comp="View" id="featuredHorizontalListView" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="View featuredHorizontalListView swipe left %thinktime=500 %timeout=2000" idx="13" start="1413928346369" stop="1413928351637" duration="5.268" result="ok">
+        </cmd>
+        <cmd  comp="View" id="featuredHorizontalListView" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="View featuredHorizontalListView swipe left %thinktime=500 %timeout=2000" idx="14" start="1413928351638" stop="1413928356910" duration="5.272" result="ok">
+            <msg><![CDATA[Image with monkeyID gridSquaredImageView is being clipped. ]]>
+            </msg>
+        </cmd>
+        <cmd  comp="View" id="featuredHorizontalListView" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="View featuredHorizontalListView swipe left %thinktime=500 %timeout=2000" idx="15" start="1413928356911" stop="1413928362189" duration="5.278" result="ok">
+        </cmd>
+        <cmd  comp="View" id="featuredHorizontalListView" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="View featuredHorizontalListView swipe left %thinktime=500 %timeout=2000" idx="16" start="1413928362189" stop="1413928367493" duration="5.304" result="ok">
+        </cmd>
+        <cmd  comp="View" id="featuredHorizontalListView" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="View featuredHorizontalListView swipe left %thinktime=500 %timeout=2000" idx="17" start="1413928367493" stop="1413928372712" duration="5.219" result="ok">
+        </cmd>
+        <cmd  comp="View" id="featuredHorizontalListView" action="tap" args="493 222" mods="%thinktime=500 %timeout=2000" raw="View featuredHorizontalListView tap 493 222 %thinktime=500 %timeout=2000" idx="18" start="1413928372712" stop="1413928378037" duration="5.325" result="ok">
+        </cmd>
+        <cmd  comp="View" id="featuredHorizontalListView" action="tap" args="465 182" mods="%thinktime=500 %timeout=2000" raw="View featuredHorizontalListView tap 465 182 %thinktime=500 %timeout=2000" idx="19" start="1413928378037" stop="1413928389209" duration="11.172" screenshot="screenshots/screenshot_2014-10-21_175309.png" result="failure">
+            <msg><![CDATA[Unable to find View(featuredHorizontalListView)]]>
+            </msg>
+        </cmd>
+    </script>
+</detail>

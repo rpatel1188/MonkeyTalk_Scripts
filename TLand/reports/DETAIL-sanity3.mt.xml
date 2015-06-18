@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<detail  generated="2015-05-22 15:31:25.517 EDT" projectPath="/Users/RonakPatel/monkeytalk/workspace/TLand" agent="iOS v2.0.10_4 - 2014-12-13 17:09:42 EST" runner="MonkeyTalk IDE v2.0.10_4 - 2014-12-13 17:07:55 EST">
+    <script  comp="Script" id="sanity3.mt" action="Run" mods="%thinktime=500 %timeout=2000" raw="Script sanity3.mt Run %thinktime=500 %timeout=2000" idx="1" start="1432323080937" stop="1432323085516" duration="4.579" screenshot="screenshots/screenshot_2015-05-22_153125.png" result="failure">
+        <cmd  comp="TabBar" id="*" action="Select" args="Trivia" mods="%thinktime=500 %timeout=2000" raw="TabBar * Select Trivia %thinktime=500 %timeout=2000" idx="2" start="1432323080938" stop="1432323081454" duration="0.516" result="ok">
+        </cmd>
+        <cmd  comp="Table" id="_tableView" action="SelectIndex" args="1" mods="%thinktime=500 %timeout=2000" raw="Table _tableView SelectIndex 1 %thinktime=500 %timeout=2000" idx="3" start="1432323081454" stop="1432323082377" duration="0.923" result="ok">
+        </cmd>
+        <cmd  comp="TLChoiceButton" id="The Morgue" action="Tap" mods="%thinktime=500 %timeout=2000" raw="TLChoiceButton &quot;The Morgue&quot; Tap %thinktime=500 %timeout=2000" idx="4" start="1432323082377" stop="1432323082889" duration="0.512" result="ok">
+        </cmd>
+        <cmd  comp="Label" id="Correct" action="Verify" mods="%thinktime=500 %timeout=2000" raw="Label Correct Verify %thinktime=500 %timeout=2000" idx="5" start="1432323082889" stop="1432323085516" duration="2.627" screenshot="screenshots/screenshot_2015-05-22_153125.png" result="failure">
+            <msg><![CDATA[No Label found with monkeyID "Correct"]]>
+            </msg>
+        </cmd>
+    </script>
+</detail>

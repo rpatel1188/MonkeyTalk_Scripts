@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<detail  generated="2014-10-06 14:23:28.374 EDT" projectPath="/Users/RonakPatel/monkeytalk/workspace/MonkeyProjectSanta" agent="AndroidEmulator v2.0.8_489 - 2014-08-13 23:10:15 MDT" runner="MonkeyTalk IDE v2.0.9-SNAPSHOT_488 - 2014-08-13 17:32:34 MDT">
+    <script  comp="Script" id="SantaTrackerMatchGame.mt" action="Run" mods="%thinktime=500 %timeout=2000" raw="Script SantaTrackerMatchGame.mt Run %thinktime=500 %timeout=2000" idx="1" start="1412619739594" stop="1412619808327" duration="68.733" screenshot="screenshots/screenshot_2014-10-06_142328.png" result="failure">
+        <cmd  comp="View" id="card_position_9" action="tap" args="92 126" mods="%thinktime=500 %timeout=2000" raw="View card_position_9 tap 92 126 %thinktime=500 %timeout=2000" idx="2" start="1412619739620" stop="1412619740316" duration="0.696" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_10" action="tap" args="93 147" mods="%thinktime=500 %timeout=2000" raw="View card_position_10 tap 93 147 %thinktime=500 %timeout=2000" idx="3" start="1412619740316" stop="1412619741071" duration="0.755" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_3" action="tap" args="97 163" mods="%thinktime=500 %timeout=2000" raw="View card_position_3 tap 97 163 %thinktime=500 %timeout=2000" idx="4" start="1412619741071" stop="1412619744119" duration="3.048" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_10" action="tap" args="73 115" mods="%thinktime=500 %timeout=2000" raw="View card_position_10 tap 73 115 %thinktime=500 %timeout=2000" idx="5" start="1412619744119" stop="1412619744894" duration="0.775" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_10" action="tap" args="110 127" mods="%thinktime=500 %timeout=2000" raw="View card_position_10 tap 110 127 %thinktime=500 %timeout=2000" idx="6" start="1412619744895" stop="1412619745718" duration="0.823" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_9" action="tap" args="93 184" mods="%thinktime=500 %timeout=2000" raw="View card_position_9 tap 93 184 %thinktime=500 %timeout=2000" idx="7" start="1412619745718" stop="1412619746398" duration="0.68" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_2" action="tap" args="75 169" mods="%thinktime=500 %timeout=2000" raw="View card_position_2 tap 75 169 %thinktime=500 %timeout=2000" idx="8" start="1412619746399" stop="1412619746937" duration="0.538" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_1" action="tap" args="67 184" mods="%thinktime=500 %timeout=2000" raw="View card_position_1 tap 67 184 %thinktime=500 %timeout=2000" idx="9" start="1412619746937" stop="1412619747459" duration="0.522" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_5" action="tap" args="37 141" mods="%thinktime=500 %timeout=2000" raw="View card_position_5 tap 37 141 %thinktime=500 %timeout=2000" idx="10" start="1412619747459" stop="1412619748062" duration="0.603" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_6" action="tap" args="85 154" mods="%thinktime=500 %timeout=2000" raw="View card_position_6 tap 85 154 %thinktime=500 %timeout=2000" idx="11" start="1412619748062" stop="1412619748673" duration="0.611" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_4" action="tap" args="68 179" mods="%thinktime=500 %timeout=2000" raw="View card_position_4 tap 68 179 %thinktime=500 %timeout=2000" idx="12" start="1412619748673" stop="1412619749234" duration="0.561" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_1" action="tap" args="67 158" mods="%thinktime=500 %timeout=2000" raw="View card_position_1 tap 67 158 %thinktime=500 %timeout=2000" idx="13" start="1412619749234" stop="1412619749754" duration="0.52" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_2" action="tap" args="88 133" mods="%thinktime=500 %timeout=2000" raw="View card_position_2 tap 88 133 %thinktime=500 %timeout=2000" idx="14" start="1412619749754" stop="1412619750308" duration="0.554" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_3" action="tap" args="80 146" mods="%thinktime=500 %timeout=2000" raw="View card_position_3 tap 80 146 %thinktime=500 %timeout=2000" idx="15" start="1412619750308" stop="1412619750904" duration="0.596" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_4" action="tap" args="78 165" mods="%thinktime=500 %timeout=2000" raw="View card_position_4 tap 78 165 %thinktime=500 %timeout=2000" idx="16" start="1412619750904" stop="1412619751547" duration="0.643" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_5" action="tap" args="89 139" mods="%thinktime=500 %timeout=2000" raw="View card_position_5 tap 89 139 %thinktime=500 %timeout=2000" idx="17" start="1412619751548" stop="1412619752235" duration="0.687" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_6" action="tap" args="91 148" mods="%thinktime=500 %timeout=2000" raw="View card_position_6 tap 91 148 %thinktime=500 %timeout=2000" idx="18" start="1412619752235" stop="1412619752962" duration="0.727" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_4" action="tap" args="93 164" mods="%thinktime=500 %timeout=2000" raw="View card_position_4 tap 93 164 %thinktime=500 %timeout=2000" idx="19" start="1412619752963" stop="1412619753584" duration="0.621" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_3" action="tap" args="108 159" mods="%thinktime=500 %timeout=2000" raw="View card_position_3 tap 108 159 %thinktime=500 %timeout=2000" idx="20" start="1412619753584" stop="1412619754161" duration="0.577" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_2" action="tap" args="114 151" mods="%thinktime=500 %timeout=2000" raw="View card_position_2 tap 114 151 %thinktime=500 %timeout=2000" idx="21" start="1412619754161" stop="1412619754711" duration="0.55" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_4" action="tap" args="108 138" mods="%thinktime=500 %timeout=2000" raw="View card_position_4 tap 108 138 %thinktime=500 %timeout=2000" idx="22" start="1412619754711" stop="1412619755331" duration="0.62" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_3" action="tap" args="75 135" mods="%thinktime=500 %timeout=2000" raw="View card_position_3 tap 75 135 %thinktime=500 %timeout=2000" idx="23" start="1412619755331" stop="1412619755916" duration="0.585" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_1" action="tap" args="119 93" mods="%thinktime=500 %timeout=2000" raw="View card_position_1 tap 119 93 %thinktime=500 %timeout=2000" idx="24" start="1412619755916" stop="1412619756442" duration="0.526" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_1" action="tap" args="89 136" mods="%thinktime=500 %timeout=2000" raw="View card_position_1 tap 89 136 %thinktime=500 %timeout=2000" idx="25" start="1412619756442" stop="1412619756963" duration="0.521" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_2" action="tap" args="109 102" mods="%thinktime=500 %timeout=2000" raw="View card_position_2 tap 109 102 %thinktime=500 %timeout=2000" idx="26" start="1412619756963" stop="1412619757511" duration="0.548" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_8" action="tap" args="94 157" mods="%thinktime=500 %timeout=2000" raw="View card_position_8 tap 94 157 %thinktime=500 %timeout=2000" idx="27" start="1412619757511" stop="1412619758431" duration="0.92" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_9" action="tap" args="66 170" mods="%thinktime=500 %timeout=2000" raw="View card_position_9 tap 66 170 %thinktime=500 %timeout=2000" idx="28" start="1412619758431" stop="1412619759295" duration="0.864" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_3" action="tap" args="114 135" mods="%thinktime=500 %timeout=2000" raw="View card_position_3 tap 114 135 %thinktime=500 %timeout=2000" idx="29" start="1412619759295" stop="1412619759863" duration="0.568" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_4" action="tap" args="131 159" mods="%thinktime=500 %timeout=2000" raw="View card_position_4 tap 131 159 %thinktime=500 %timeout=2000" idx="30" start="1412619759863" stop="1412619760480" duration="0.617" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_10" action="tap" args="120 120" mods="%thinktime=500 %timeout=2000" raw="View card_position_10 tap 120 120 %thinktime=500 %timeout=2000" idx="31" start="1412619760480" stop="1412619761402" duration="0.922" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_11" action="tap" args="102 139" mods="%thinktime=500 %timeout=2000" raw="View card_position_11 tap 102 139 %thinktime=500 %timeout=2000" idx="32" start="1412619761403" stop="1412619762344" duration="0.941" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_5" action="tap" args="105 104" mods="%thinktime=500 %timeout=2000" raw="View card_position_5 tap 105 104 %thinktime=500 %timeout=2000" idx="33" start="1412619762344" stop="1412619763046" duration="0.702" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_2" action="tap" args="117 125" mods="%thinktime=500 %timeout=2000" raw="View card_position_2 tap 117 125 %thinktime=500 %timeout=2000" idx="34" start="1412619763047" stop="1412619763597" duration="0.55" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_8" action="tap" args="113 131" mods="%thinktime=500 %timeout=2000" raw="View card_position_8 tap 113 131 %thinktime=500 %timeout=2000" idx="35" start="1412619763597" stop="1412619764438" duration="0.841" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_9" action="tap" args="96 148" mods="%thinktime=500 %timeout=2000" raw="View card_position_9 tap 96 148 %thinktime=500 %timeout=2000" idx="36" start="1412619764438" stop="1412619765382" duration="0.944" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_3" action="tap" args="78 106" mods="%thinktime=500 %timeout=2000" raw="View card_position_3 tap 78 106 %thinktime=500 %timeout=2000" idx="37" start="1412619765382" stop="1412619765954" duration="0.572" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_10" action="tap" args="88 140" mods="%thinktime=500 %timeout=2000" raw="View card_position_10 tap 88 140 %thinktime=500 %timeout=2000" idx="38" start="1412619765954" stop="1412619766873" duration="0.919" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_4" action="tap" args="113 104" mods="%thinktime=500 %timeout=2000" raw="View card_position_4 tap 113 104 %thinktime=500 %timeout=2000" idx="39" start="1412619766873" stop="1412619767466" duration="0.593" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_11" action="tap" args="97 157" mods="%thinktime=500 %timeout=2000" raw="View card_position_11 tap 97 157 %thinktime=500 %timeout=2000" idx="40" start="1412619767466" stop="1412619768403" duration="0.937" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_3" action="tap" args="74 181" mods="%thinktime=500 %timeout=2000" raw="View card_position_3 tap 74 181 %thinktime=500 %timeout=2000" idx="41" start="1412619768403" stop="1412619768977" duration="0.574" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_8" action="tap" args="116 159" mods="%thinktime=500 %timeout=2000" raw="View card_position_8 tap 116 159 %thinktime=500 %timeout=2000" idx="42" start="1412619768977" stop="1412619769740" duration="0.763" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_4" action="tap" args="122 161" mods="%thinktime=500 %timeout=2000" raw="View card_position_4 tap 122 161 %thinktime=500 %timeout=2000" idx="43" start="1412619769741" stop="1412619770332" duration="0.591" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_5" action="tap" args="102 155" mods="%thinktime=500 %timeout=2000" raw="View card_position_5 tap 102 155 %thinktime=500 %timeout=2000" idx="44" start="1412619770332" stop="1412619770953" duration="0.621" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_8" action="tap" args="77 136" mods="%thinktime=500 %timeout=2000" raw="View card_position_8 tap 77 136 %thinktime=500 %timeout=2000" idx="45" start="1412619770953" stop="1412619771715" duration="0.762" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_10" action="tap" args="98 145" mods="%thinktime=500 %timeout=2000" raw="View card_position_10 tap 98 145 %thinktime=500 %timeout=2000" idx="46" start="1412619771715" stop="1412619772645" duration="0.93" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_9" action="tap" args="128 134" mods="%thinktime=500 %timeout=2000" raw="View card_position_9 tap 128 134 %thinktime=500 %timeout=2000" idx="47" start="1412619772645" stop="1412619773437" duration="0.792" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_2" action="tap" args="84 100" mods="%thinktime=500 %timeout=2000" raw="View card_position_2 tap 84 100 %thinktime=500 %timeout=2000" idx="48" start="1412619773440" stop="1412619774031" duration="0.591" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_4" action="tap" args="107 121" mods="%thinktime=500 %timeout=2000" raw="View card_position_4 tap 107 121 %thinktime=500 %timeout=2000" idx="49" start="1412619774031" stop="1412619774630" duration="0.599" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="Pause game" action="tap" args="42 12" mods="%thinktime=500 %timeout=2000" raw="Image &quot;Pause game&quot; tap 42 12 %thinktime=500 %timeout=2000" idx="50" start="1412619774630" stop="1412619775519" duration="0.889" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="Resume game" action="tap" args="78 80" mods="%thinktime=500 %timeout=2000" raw="Image &quot;Resume game&quot; tap 78 80 %thinktime=500 %timeout=2000" idx="51" start="1412619775519" stop="1412619776472" duration="0.953" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_8" action="tap" args="64 141" mods="%thinktime=500 %timeout=2000" raw="View card_position_8 tap 64 141 %thinktime=500 %timeout=2000" idx="52" start="1412619776472" stop="1412619777231" duration="0.759" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_9" action="tap" args="89 132" mods="%thinktime=500 %timeout=2000" raw="View card_position_9 tap 89 132 %thinktime=500 %timeout=2000" idx="53" start="1412619777231" stop="1412619778013" duration="0.782" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="Pause game" action="tap" args="41 17" mods="%thinktime=500 %timeout=2000" raw="Image &quot;Pause game&quot; tap 41 17 %thinktime=500 %timeout=2000" idx="54" start="1412619778014" stop="1412619778961" duration="0.947" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="Resume game" action="tap" args="88 78" mods="%thinktime=500 %timeout=2000" raw="Image &quot;Resume game&quot; tap 88 78 %thinktime=500 %timeout=2000" idx="55" start="1412619778961" stop="1412619779832" duration="0.871" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_10" action="tap" args="92 146" mods="%thinktime=500 %timeout=2000" raw="View card_position_10 tap 92 146 %thinktime=500 %timeout=2000" idx="56" start="1412619779832" stop="1412619780641" duration="0.809" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_11" action="tap" args="85 140" mods="%thinktime=500 %timeout=2000" raw="View card_position_11 tap 85 140 %thinktime=500 %timeout=2000" idx="57" start="1412619780641" stop="1412619781562" duration="0.921" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="Pause game" action="tap" args="31 7" mods="%thinktime=500 %timeout=2000" raw="Image &quot;Pause game&quot; tap 31 7 %thinktime=500 %timeout=2000" idx="58" start="1412619781563" stop="1412619782439" duration="0.876" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="Resume game" action="tap" args="105 88" mods="%thinktime=500 %timeout=2000" raw="Image &quot;Resume game&quot; tap 105 88 %thinktime=500 %timeout=2000" idx="59" start="1412619782439" stop="1412619783316" duration="0.877" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_8" action="tap" args="91 123" mods="%thinktime=500 %timeout=2000" raw="View card_position_8 tap 91 123 %thinktime=500 %timeout=2000" idx="60" start="1412619783317" stop="1412619784159" duration="0.842" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_10" action="tap" args="124 115" mods="%thinktime=500 %timeout=2000" raw="View card_position_10 tap 124 115 %thinktime=500 %timeout=2000" idx="61" start="1412619784159" stop="1412619784978" duration="0.819" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="Pause game" action="tap" args="38 33" mods="%thinktime=500 %timeout=2000" raw="Image &quot;Pause game&quot; tap 38 33 %thinktime=500 %timeout=2000" idx="62" start="1412619784978" stop="1412619788394" duration="3.416" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="Resume game" action="tap" args="110 123" mods="%thinktime=500 %timeout=2000" raw="Image &quot;Resume game&quot; tap 110 123 %thinktime=500 %timeout=2000" idx="63" start="1412619788395" stop="1412619789385" duration="0.99" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_2" action="tap" args="102 113" mods="%thinktime=500 %timeout=2000" raw="View card_position_2 tap 102 113 %thinktime=500 %timeout=2000" idx="64" start="1412619789385" stop="1412619789934" duration="0.549" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_9" action="tap" args="53 135" mods="%thinktime=500 %timeout=2000" raw="View card_position_9 tap 53 135 %thinktime=500 %timeout=2000" idx="65" start="1412619789934" stop="1412619790723" duration="0.789" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_2" action="tap" args="97 148" mods="%thinktime=500 %timeout=2000" raw="View card_position_2 tap 97 148 %thinktime=500 %timeout=2000" idx="66" start="1412619790723" stop="1412619791276" duration="0.553" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_3" action="tap" args="102 117" mods="%thinktime=500 %timeout=2000" raw="View card_position_3 tap 102 117 %thinktime=500 %timeout=2000" idx="67" start="1412619791276" stop="1412619791847" duration="0.571" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_4" action="tap" args="91 143" mods="%thinktime=500 %timeout=2000" raw="View card_position_4 tap 91 143 %thinktime=500 %timeout=2000" idx="68" start="1412619791848" stop="1412619793941" duration="2.093" result="ok">
+        </cmd>
+        <cmd  comp="View" id="card_position_5" action="tap" args="80 138" mods="%thinktime=500 %timeout=2000" raw="View card_position_5 tap 80 138 %thinktime=500 %timeout=2000" idx="69" start="1412619793941" stop="1412619796071" duration="2.13" result="ok">
+        </cmd>
+        <cmd  comp="View" id="play_again_bkgrd" action="tap" args="888 502" mods="%thinktime=500 %timeout=2000" raw="View play_again_bkgrd tap 888 502 %thinktime=500 %timeout=2000" idx="70" start="1412619796071" stop="1412619808327" duration="12.256" screenshot="screenshots/screenshot_2014-10-06_142328.png" result="failure">
+            <msg><![CDATA[Unable to find View(play_again_bkgrd)]]>
+            </msg>
+        </cmd>
+    </script>
+</detail>

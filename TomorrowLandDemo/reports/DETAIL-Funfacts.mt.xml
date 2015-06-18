@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<detail  generated="2015-06-03 10:44:46.672 EDT" projectPath="/Users/RonakPatel/monkeytalk/workspace/TomorrowLandDemo" agent="iOS v2.0.10_4 - 2014-12-13 17:09:42 EST" runner="MonkeyTalk IDE v2.0.10_4 - 2014-12-13 17:07:55 EST">
+    <script  comp="Script" id="Funfacts.mt" action="Run" mods="%thinktime=500 %timeout=2000" raw="Script Funfacts.mt Run %thinktime=500 %timeout=2000" idx="1" start="1433342679715" stop="1433342686670" duration="6.955" result="ok">
+        <cmd  comp="TabBar" id="*" action="Select" args="Trivia" mods="%thinktime=500 %timeout=2000" raw="TabBar * Select Trivia %thinktime=500 %timeout=2000" idx="2" start="1433342679715" stop="1433342681724" duration="2.009" result="ok">
+        </cmd>
+        <cmd  comp="TabBar" id="*" action="Select" args="&quot;Fun Facts&quot;" mods="%thinktime=500 %timeout=2000" raw="TabBar * Select &quot;Fun Facts&quot; %thinktime=500 %timeout=2000" idx="3" start="1433342681724" stop="1433342683733" duration="2.009" result="ok">
+        </cmd>
+        <cmd  comp="UILabel" id="*" action="Verify" args="&quot;No Stranger to the World of Disney&quot;" mods="%thinktime=500 %timeout=2000" raw="UILabel * Verify &quot;No Stranger to the World of Disney&quot; %thinktime=500 %timeout=2000" idx="4" start="1433342683733" stop="1433342684242" duration="0.509" result="ok">
+        </cmd>
+        <cmd  comp="Table" id="_tableView" action="SelectIndex" args="1" mods="%thinktime=500 %timeout=2000" raw="Table _tableView SelectIndex 1 %thinktime=500 %timeout=2000" idx="5" start="1433342684242" stop="1433342686670" duration="2.428" result="ok">
+        </cmd>
+    </script>
+</detail>

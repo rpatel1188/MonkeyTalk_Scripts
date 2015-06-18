@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<detail  generated="2014-12-23 16:32:01.016 EST" projectPath="/Users/RonakPatel/monkeytalk/workspace/Viggle" agent="AndroidEmulator v2.0.1_257 - 2014-01-29 08:31:55 MST" runner="MonkeyTalk IDE v2.0.9-SNAPSHOT_488 - 2014-08-13 17:32:34 MDT">
+    <script  comp="Script" id="ViggleChangePlayerbuttontest.mt" action="Run" mods="%thinktime=500 %timeout=2000" raw="Script ViggleChangePlayerbuttontest.mt Run %thinktime=500 %timeout=2000" idx="1" start="1419370299343" stop="1419370320977" duration="21.634" screenshot="screenshots/screenshot_2014-12-23_163200.png" result="failure">
+        <cmd  comp="View" id="Sign in" action="tap" args="107 63" mods="%thinktime=500 %timeout=2000" raw="View &quot;Sign in&quot; tap 107 63 %thinktime=500 %timeout=2000" idx="2" start="1419370299376" stop="1419370300965" duration="1.589" result="ok">
+            <msg><![CDATA[View with monkeyID My Profile, rpateltester, Navigate up is being clipped. Label with monkeyID text_build_num_date is being clipped. Label with monkeyID Settings is being clipped. Label with monkeyID text_build_num_date is being clipped. ]]>
+            </msg>
+        </cmd>
+        <cmd  comp="Input" id="EMAIL" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="Input EMAIL swipe left %thinktime=500 %timeout=2000" idx="3" start="1419370300965" stop="1419370301765" duration="0.8" result="ok">
+        </cmd>
+        <cmd  comp="Input" id="EMAIL" action="enterText" args="ronakapplicoqa1@gmail.com" mods="%thinktime=500 %timeout=2000" raw="Input EMAIL enterText ronakapplicoqa1@gmail.com %thinktime=500 %timeout=2000" idx="4" start="1419370301766" stop="1419370302385" duration="0.619" result="ok">
+        </cmd>
+        <cmd  comp="Input" id="PASSWORD" action="tap" args="159 50" mods="%thinktime=500 %timeout=2000" raw="Input PASSWORD tap 159 50 %thinktime=500 %timeout=2000" idx="5" start="1419370302385" stop="1419370302944" duration="0.559" result="ok">
+        </cmd>
+        <cmd  comp="Input" id="PASSWORD" action="enterText" args="passport" mods="%thinktime=500 %timeout=2000" raw="Input PASSWORD enterText passport %thinktime=500 %timeout=2000" idx="6" start="1419370302945" stop="1419370303484" duration="0.539" result="ok">
+        </cmd>
+        <cmd  comp="Button" id="SIGN IN" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="Button &quot;SIGN IN&quot; swipe left %thinktime=500 %timeout=2000" idx="7" start="1419370303484" stop="1419370304034" duration="0.55" result="ok">
+        </cmd>
+        <cmd  comp="TabBar" id="*" action="select" args="&quot;WHAT&apos;S ON&quot;" mods="%thinktime=500 %timeout=2000" raw="TabBar * select &quot;WHAT&apos;S ON&quot; %thinktime=500 %timeout=2000" idx="8" start="1419370304035" stop="1419370305008" duration="0.973" result="ok">
+        </cmd>
+        <cmd  comp="View" id="Drop down" action="tap" args="194 21" mods="%thinktime=500 %timeout=2000" raw="View &quot;Drop down&quot; tap 194 21 %thinktime=500 %timeout=2000" idx="9" start="1419370305008" stop="1419370309527" duration="4.519" result="ok">
+        </cmd>
+        <cmd  comp="Table" id="Drop down" action="select" args="&quot;Search for Shows&quot;" mods="%thinktime=500 %timeout=2000" raw="Table &quot;Drop down&quot; select &quot;Search for Shows&quot; %thinktime=500 %timeout=2000" idx="10" start="1419370309527" stop="1419370311552" duration="2.025" result="ok">
+            <msg><![CDATA[Image with monkeyID show_image is being clipped. View with monkeyID Show is being clipped. View with monkeyID image_frame is being clipped. Image with monkeyID show_image is being clipped. Image with monkeyID check_mark_image is being clipped. View with monkeyID whatson_progress_bar is being clipped. View with monkeyID text_layout is being clipped. View with monkeyID reminder_and_broadcast_layout is being clipped. Label with monkeyID broadcast_info is being clipped. Button with monkeyID SET REMINDER is being clipped. Label with monkeyID show_name is being clipped. Image with monkeyID overlay_image is being clipped. View with monkeyID Show is being clipped. View with monkeyID image_frame is being clipped. Image with monkeyID show_image is being clipped. View with monkeyID text_layout is being clipped. View with monkeyID reminder_and_broadcast_layout is being clipped. Label with monkeyID broadcast_info is being clipped. Button with monkeyID SET REMINDER is being clipped. Label with monkeyID show_name is being clipped. Image with monkeyID show_image is being clipped. View with monkeyID Show is being clipped. View with monkeyID image_frame is being clipped. Image with monkeyID show_image is being clipped. Image with monkeyID check_mark_image is being clipped. View with monkeyID whatson_progress_bar is being clipped. View with monkeyID reminder_and_broadcast_layout is being clipped. View with monkeyID text_layout is being clipped. Label with monkeyID broadcast_info is being clipped. Button with monkeyID SET REMINDER is being clipped. Label with monkeyID show_name is being clipped. Image with monkeyID overlay_image is being clipped. View with monkeyID image_frame is being clipped. View with monkeyID Show is being clipped. Image with monkeyID show_image is being clipped. View with monkeyID text_layout is being clipped. View with monkeyID reminder_and_broadcast_layout is being clipped. Label with monkeyID broadcast_info is being clipped. Button with monkeyID SET REMINDER is being clipped. Label with monkeyID show_name is being clipped. ]]>
+            </msg>
+        </cmd>
+        <cmd  comp="Input" id="search_box" action="enterText" args="stats enter" mods="%thinktime=500 %timeout=2000" raw="Input search_box enterText stats enter %thinktime=500 %timeout=2000" idx="11" start="1419370311552" stop="1419370312094" duration="0.542" result="ok">
+        </cmd>
+        <cmd  comp="Table" id="Shows search results" action="selectIndex" args="3" mods="%thinktime=500 %timeout=2000" raw="Table &quot;Shows search results&quot; selectIndex 3 %thinktime=500 %timeout=2000" idx="12" start="1419370312094" stop="1419370314122" duration="2.028" result="ok">
+        </cmd>
+        <cmd  comp="Table" id="Show Details" action="selectIndex" args="2" mods="%thinktime=500 %timeout=2000" raw="Table &quot;Show Details&quot; selectIndex 2 %thinktime=500 %timeout=2000" idx="13" start="1419370314123" stop="1419370316174" duration="2.051" result="ok">
+        </cmd>
+        <cmd  comp="Input" id="search_box" action="tap" args="186 56" mods="%thinktime=500 %timeout=2000" raw="Input search_box tap 186 56 %thinktime=500 %timeout=2000" idx="14" start="1419370316174" stop="1419370320977" duration="4.803" screenshot="screenshots/screenshot_2014-12-23_163200.png" result="failure">
+            <msg><![CDATA[Unable to find Input(search_box)]]>
+            </msg>
+        </cmd>
+    </script>
+</detail>

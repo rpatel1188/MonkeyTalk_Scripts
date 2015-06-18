@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<detail  generated="2014-10-15 14:29:24.652 EDT" projectPath="/Users/RonakPatel/monkeytalk/workspace/CaseableMonkey" agent="AndroidEmulator v2.0.1_257 - 2014-01-29 08:31:55 MST" runner="MonkeyTalk IDE v2.0.9-SNAPSHOT_488 - 2014-08-13 17:32:34 MDT">
+    <script  comp="Script" id="MonkeyProjectCaseable.mt" action="Run" mods="%thinktime=500 %timeout=2000" raw="Script MonkeyProjectCaseable.mt Run %thinktime=500 %timeout=2000" idx="1" start="1413397702809" stop="1413397764601" duration="61.792" screenshot="screenshots/screenshot_2014-10-15_142924.png" result="failure">
+        <cmd  comp="View" id="Caseable, Open navigation drawer" action="swipe" args="up" mods="%thinktime=500 %timeout=2000" raw="View &quot;Caseable, Open navigation drawer&quot; swipe up %thinktime=500 %timeout=2000" idx="2" start="1413397702835" stop="1413397706538" duration="3.703" result="ok">
+        </cmd>
+        <cmd  comp="View" id="Shop, Open navigation drawer" action="swipe" args="up" mods="%thinktime=500 %timeout=2000" raw="View &quot;Shop, Open navigation drawer&quot; swipe up %thinktime=500 %timeout=2000" idx="3" start="1413397706538" stop="1413397709943" duration="3.405" result="ok">
+        </cmd>
+        <cmd  comp="View" id="Caseable, Open navigation drawer" action="tap" args="16 65" mods="%thinktime=500 %timeout=2000" raw="View &quot;Caseable, Open navigation drawer&quot; tap 16 65 %thinktime=500 %timeout=2000" idx="4" start="1413397709943" stop="1413397713572" duration="3.629" result="ok">
+        </cmd>
+        <cmd  comp="View" id="Shop, Open navigation drawer" action="tap" args="25 69" mods="%thinktime=500 %timeout=2000" raw="View &quot;Shop, Open navigation drawer&quot; tap 25 69 %thinktime=500 %timeout=2000" idx="5" start="1413397713572" stop="1413397716939" duration="3.367" result="ok">
+        </cmd>
+        <cmd  comp="View" id="Caseable, Open navigation drawer" action="swipe" args="up" mods="%thinktime=500 %timeout=2000" raw="View &quot;Caseable, Open navigation drawer&quot; swipe up %thinktime=500 %timeout=2000" idx="6" start="1413397716939" stop="1413397720747" duration="3.808" result="ok">
+        </cmd>
+        <cmd  comp="View" id="drawer_layout" action="swipe" args="down" mods="%thinktime=500 %timeout=2000" raw="View drawer_layout swipe down %thinktime=500 %timeout=2000" idx="7" start="1413397720747" stop="1413397721287" duration="0.54" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="scroll right" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="Image &quot;scroll right&quot; swipe left %thinktime=500 %timeout=2000" idx="8" start="1413397721287" stop="1413397721954" duration="0.667" result="ok">
+        </cmd>
+        <cmd  comp="View" id="featuredHorizontalListView" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="View featuredHorizontalListView swipe left %thinktime=500 %timeout=2000" idx="9" start="1413397721954" stop="1413397722946" duration="0.992" result="ok">
+        </cmd>
+        <cmd  comp="Scroller" id="*" action="swipe" args="right" mods="%thinktime=500 %timeout=2000" raw="Scroller * swipe right %thinktime=500 %timeout=2000" idx="10" start="1413397722947" stop="1413397723516" duration="0.569" result="ok">
+        </cmd>
+        <cmd  comp="View" id="featuredHorizontalListView" action="swipe" args="right" mods="%thinktime=500 %timeout=2000" raw="View featuredHorizontalListView swipe right %thinktime=500 %timeout=2000" idx="11" start="1413397723516" stop="1413397724322" duration="0.806" result="ok">
+        </cmd>
+        <cmd  comp="View" id="featuredHorizontalListView" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="View featuredHorizontalListView swipe left %thinktime=500 %timeout=2000" idx="12" start="1413397724322" stop="1413397725266" duration="0.944" result="ok">
+        </cmd>
+        <cmd  comp="View" id="featuredHorizontalListView" action="swipe" args="right" mods="%thinktime=500 %timeout=2000" raw="View featuredHorizontalListView swipe right %thinktime=500 %timeout=2000" idx="13" start="1413397725267" stop="1413397726220" duration="0.953" result="ok">
+        </cmd>
+        <cmd  comp="View" id="featuredHorizontalListView" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="View featuredHorizontalListView swipe left %thinktime=500 %timeout=2000" idx="14" start="1413397726221" stop="1413397727009" duration="0.788" result="ok">
+        </cmd>
+        <cmd  comp="View" id="featuredHorizontalListView" action="swipe" args="right" mods="%thinktime=500 %timeout=2000" raw="View featuredHorizontalListView swipe right %thinktime=500 %timeout=2000" idx="15" start="1413397727009" stop="1413397727967" duration="0.958" result="ok">
+        </cmd>
+        <cmd  comp="View" id="Shop, Open navigation drawer" action="tap" args="23 38" mods="%thinktime=500 %timeout=2000" raw="View &quot;Shop, Open navigation drawer&quot; tap 23 38 %thinktime=500 %timeout=2000" idx="16" start="1413397727967" stop="1413397731401" duration="3.434" result="ok">
+        </cmd>
+        <cmd  comp="View" id="Caseable, Open navigation drawer" action="swipe" args="up" mods="%thinktime=500 %timeout=2000" raw="View &quot;Caseable, Open navigation drawer&quot; swipe up %thinktime=500 %timeout=2000" idx="17" start="1413397731401" stop="1413397735067" duration="3.666" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="More options" action="tap" args="41 36" mods="%thinktime=500 %timeout=2000" raw="Image &quot;More options&quot; tap 41 36 %thinktime=500 %timeout=2000" idx="18" start="1413397735067" stop="1413397736323" duration="1.256" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="More options" action="tap" args="65 59" mods="%thinktime=500 %timeout=2000" raw="Image &quot;More options&quot; tap 65 59 %thinktime=500 %timeout=2000" idx="19" start="1413397736323" stop="1413397737587" duration="1.264" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="More options" action="tap" args="68 48" mods="%thinktime=500 %timeout=2000" raw="Image &quot;More options&quot; tap 68 48 %thinktime=500 %timeout=2000" idx="20" start="1413397737587" stop="1413397738851" duration="1.264" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="More options" action="tap" args="59 43" mods="%thinktime=500 %timeout=2000" raw="Image &quot;More options&quot; tap 59 43 %thinktime=500 %timeout=2000" idx="21" start="1413397738851" stop="1413397740094" duration="1.243" result="ok">
+        </cmd>
+        <cmd  comp="Menu" id="*" action="select" args="Settings" mods="%thinktime=500 %timeout=2000" raw="Menu * select Settings %thinktime=500 %timeout=2000" idx="22" start="1413397740094" stop="1413397741363" duration="1.269" result="ok">
+        </cmd>
+        <cmd  comp="ItemSelector" id="settingsCountrySpinner" action="select" args="&quot;United States&quot;" mods="%thinktime=500 %timeout=2000" raw="ItemSelector settingsCountrySpinner select &quot;United States&quot; %thinktime=500 %timeout=2000" idx="23" start="1413397741363" stop="1413397741957" duration="0.594" result="ok">
+        </cmd>
+        <cmd  comp="ItemSelector" id="settingsLanguageSpinner" action="select" args="English" mods="%thinktime=500 %timeout=2000" raw="ItemSelector settingsLanguageSpinner select English %thinktime=500 %timeout=2000" idx="24" start="1413397741957" stop="1413397742486" duration="0.529" result="ok">
+        </cmd>
+        <cmd  comp="View" id="Settings, Navigate up" action="tap" args="36 48" mods="%thinktime=500 %timeout=2000" raw="View &quot;Settings, Navigate up&quot; tap 36 48 %thinktime=500 %timeout=2000" idx="25" start="1413397742487" stop="1413397743445" duration="0.958" result="ok">
+            <msg><![CDATA[Image with monkeyID #2 is being clipped. View with monkeyID Settings, Navigate up is being clipped. Label with monkeyID #7 is being clipped. View with monkeyID Navigate up is being clipped. Image with monkeyID #3 is being clipped. ]]>
+            </msg>
+        </cmd>
+        <cmd  comp="ItemSelector" id="deviceSpinner" action="selectIndex" args="33" mods="%thinktime=500 %timeout=2000" raw="ItemSelector deviceSpinner selectIndex 33 %thinktime=500 %timeout=2000" idx="26" start="1413397743445" stop="1413397744044" duration="0.599" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="More options" action="tap" args="33 30" mods="%thinktime=500 %timeout=2000" raw="Image &quot;More options&quot; tap 33 30 %thinktime=500 %timeout=2000" idx="27" start="1413397744044" stop="1413397745050" duration="1.006" result="ok">
+        </cmd>
+        <cmd  comp="Menu" id="*" action="select" args="Settings" mods="%thinktime=500 %timeout=2000" raw="Menu * select Settings %thinktime=500 %timeout=2000" idx="28" start="1413397745050" stop="1413397746324" duration="1.274" result="ok">
+        </cmd>
+        <cmd  comp="ItemSelector" id="settingsCountrySpinner" action="select" args="&quot;United States&quot;" mods="%thinktime=500 %timeout=2000" raw="ItemSelector settingsCountrySpinner select &quot;United States&quot; %thinktime=500 %timeout=2000" idx="29" start="1413397746324" stop="1413397747097" duration="0.773" result="ok">
+            <msg><![CDATA[Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. ]]>
+            </msg>
+        </cmd>
+        <cmd  comp="ItemSelector" id="settingsLanguageSpinner" action="select" args="English" mods="%thinktime=500 %timeout=2000" raw="ItemSelector settingsLanguageSpinner select English %thinktime=500 %timeout=2000" idx="30" start="1413397747097" stop="1413397747751" duration="0.654" result="ok">
+            <msg><![CDATA[View with monkeyID Settings, Navigate up is being clipped. View with monkeyID Navigate up is being clipped. Image with monkeyID #2 is being clipped. Label with monkeyID #7 is being clipped. Image with monkeyID #3 is being clipped. ]]>
+            </msg>
+        </cmd>
+        <cmd  comp="View" id="Settings, Navigate up" action="swipe" args="up" mods="%thinktime=500 %timeout=2000" raw="View &quot;Settings, Navigate up&quot; swipe up %thinktime=500 %timeout=2000" idx="31" start="1413397747751" stop="1413397748599" duration="0.848" result="ok">
+        </cmd>
+        <cmd  comp="ItemSelector" id="deviceSpinner" action="selectIndex" args="33" mods="%thinktime=500 %timeout=2000" raw="ItemSelector deviceSpinner selectIndex 33 %thinktime=500 %timeout=2000" idx="32" start="1413397748599" stop="1413397749207" duration="0.608" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="More options" action="tap" args="72 58" mods="%thinktime=500 %timeout=2000" raw="Image &quot;More options&quot; tap 72 58 %thinktime=500 %timeout=2000" idx="33" start="1413397749208" stop="1413397750210" duration="1.002" result="ok">
+        </cmd>
+        <cmd  comp="Menu" id="*" action="select" args="Settings" mods="%thinktime=500 %timeout=2000" raw="Menu * select Settings %thinktime=500 %timeout=2000" idx="34" start="1413397750210" stop="1413397751476" duration="1.266" result="ok">
+        </cmd>
+        <cmd  comp="ItemSelector" id="settingsCountrySpinner" action="select" args="&quot;United States&quot;" mods="%thinktime=500 %timeout=2000" raw="ItemSelector settingsCountrySpinner select &quot;United States&quot; %thinktime=500 %timeout=2000" idx="35" start="1413397751476" stop="1413397752207" duration="0.731" result="ok">
+            <msg><![CDATA[Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. ]]>
+            </msg>
+        </cmd>
+        <cmd  comp="ItemSelector" id="settingsLanguageSpinner" action="select" args="English" mods="%thinktime=500 %timeout=2000" raw="ItemSelector settingsLanguageSpinner select English %thinktime=500 %timeout=2000" idx="36" start="1413397752207" stop="1413397752840" duration="0.633" result="ok">
+            <msg><![CDATA[View with monkeyID Navigate up is being clipped. View with monkeyID Settings, Navigate up is being clipped. Image with monkeyID #2 is being clipped. Label with monkeyID #7 is being clipped. Image with monkeyID #3 is being clipped. ]]>
+            </msg>
+        </cmd>
+        <cmd  comp="View" id="Settings, Navigate up" action="tap" args="17 38" mods="%thinktime=500 %timeout=2000" raw="View &quot;Settings, Navigate up&quot; tap 17 38 %thinktime=500 %timeout=2000" idx="37" start="1413397752841" stop="1413397753684" duration="0.843" result="ok">
+        </cmd>
+        <cmd  comp="ItemSelector" id="deviceSpinner" action="selectIndex" args="33" mods="%thinktime=500 %timeout=2000" raw="ItemSelector deviceSpinner selectIndex 33 %thinktime=500 %timeout=2000" idx="38" start="1413397753684" stop="1413397754215" duration="0.531" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="More options" action="tap" args="57 27" mods="%thinktime=500 %timeout=2000" raw="Image &quot;More options&quot; tap 57 27 %thinktime=500 %timeout=2000" idx="39" start="1413397754215" stop="1413397755230" duration="1.015" result="ok">
+        </cmd>
+        <cmd  comp="Menu" id="*" action="select" args="About" mods="%thinktime=500 %timeout=2000" raw="Menu * select About %thinktime=500 %timeout=2000" idx="40" start="1413397755231" stop="1413397756495" duration="1.264" result="ok">
+        </cmd>
+        <cmd  comp="View" id="About, Navigate up" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="View &quot;About, Navigate up&quot; swipe left %thinktime=500 %timeout=2000" idx="41" start="1413397756495" stop="1413397757419" duration="0.924" result="ok">
+            <msg><![CDATA[Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. Image with monkeyID gridSquaredImageView is being clipped. ]]>
+            </msg>
+        </cmd>
+        <cmd  comp="Table" id="left_drawer" action="select" args="Shop" mods="%thinktime=500 %timeout=2000" raw="Table left_drawer select Shop %thinktime=500 %timeout=2000" idx="42" start="1413397757419" stop="1413397764601" duration="7.182" screenshot="screenshots/screenshot_2014-10-15_142924.png" result="failure">
+            <msg><![CDATA[Unable to find Table(left_drawer)]]>
+            </msg>
+        </cmd>
+    </script>
+</detail>

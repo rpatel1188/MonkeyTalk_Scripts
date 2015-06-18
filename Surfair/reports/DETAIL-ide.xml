@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<detail  generated="2015-05-14 14:19:59.312 EDT" projectPath="/Users/RonakPatel/monkeytalk/workspace/Surfair" agent="iOS v2.0.10_4 - 2014-12-13 17:10:07 EST" runner="MonkeyTalk IDE v2.0.10_4 - 2014-12-13 17:07:55 EST">
+    <script  comp="Script" id="ide" action="Run" mods="%thinktime=500 %timeout=2000" raw="Script ide Run %thinktime=500 %timeout=2000" idx="1" start="1431627595999" stop="1431627599303" duration="3.304" screenshot="screenshots/screenshot_2015-05-14_141959.png" result="failure">
+        <cmd  comp="UIWebOverflowContentView" id="ButtonSelector" action="Tap" mods="%thinktime=500 %timeout=2000" raw="UIWebOverflowContentView ButtonSelector Tap %thinktime=500 %timeout=2000" idx="2" start="1431627595999" stop="1431627599302" duration="3.303" screenshot="screenshots/screenshot_2015-05-14_141959.png" result="failure">
+            <msg><![CDATA[No UIWebOverflowContentView found with monkeyID "ButtonSelector"]]>
+            </msg>
+        </cmd>
+    </script>
+</detail>

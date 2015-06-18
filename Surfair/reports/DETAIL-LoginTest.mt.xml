@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<detail  generated="2015-05-14 14:04:30.756 EDT" projectPath="/Users/RonakPatel/monkeytalk/workspace/Surfair" agent="iOS v2.0.10_4 - 2014-12-13 17:10:07 EST" runner="MonkeyTalk IDE v2.0.10_4 - 2014-12-13 17:07:55 EST">
+    <script  comp="Script" id="LoginTest.mt" action="Run" mods="%thinktime=500 %timeout=2000" raw="Script LoginTest.mt Run %thinktime=500 %timeout=2000" idx="1" start="1431626600825" stop="1431626670742" duration="69.917" result="ok">
+        <cmd  comp="Input" id="Email" action="EnterText" args="applicoqa@gmail.com" mods="%thinktime=500 %timeout=2000" raw="Input Email EnterText applicoqa@gmail.com %thinktime=500 %timeout=2000" idx="2" start="1431626600826" stop="1431626603956" duration="3.13" result="ok">
+        </cmd>
+        <cmd  comp="Input" id="Password" action="Tap" mods="%thinktime=500 %timeout=2000" raw="Input Password Tap %thinktime=500 %timeout=2000" idx="3" start="1431626603956" stop="1431626607173" duration="3.217" result="ok">
+        </cmd>
+        <cmd  comp="Input" id="Password" action="EnterText" args="goceltic" mods="%thinktime=500 %timeout=2000" raw="Input Password EnterText goceltic %thinktime=500 %timeout=2000" idx="4" start="1431626607174" stop="1431626610622" duration="3.448" result="ok">
+        </cmd>
+        <cmd  comp="Button" id="Login" action="Tap" mods="%thinktime=500 %timeout=2000" raw="Button Login Tap %thinktime=500 %timeout=2000" idx="5" start="1431626610623" stop="1431626613787" duration="3.164" result="ok">
+        </cmd>
+        <cmd  comp="Input" id="Password" action="Tap" mods="%thinktime=500 %timeout=2000" raw="Input Password Tap %thinktime=500 %timeout=2000" idx="6" start="1431626613787" stop="1431626616866" duration="3.079" result="ok">
+        </cmd>
+        <cmd  comp="Input" id="Password" action="EnterText" args="gocelti" mods="%thinktime=500 %timeout=2000" raw="Input Password EnterText gocelti %thinktime=500 %timeout=2000" idx="7" start="1431626616867" stop="1431626620341" duration="3.474" result="ok">
+        </cmd>
+        <cmd  comp="Input" id="Password" action="Tap" mods="%thinktime=500 %timeout=2000" raw="Input Password Tap %thinktime=500 %timeout=2000" idx="8" start="1431626620341" stop="1431626624023" duration="3.682" result="ok">
+        </cmd>
+        <cmd  comp="Input" id="Password" action="Tap" mods="%thinktime=500 %timeout=2000" raw="Input Password Tap %thinktime=500 %timeout=2000" idx="9" start="1431626624023" stop="1431626628119" duration="4.096" result="ok">
+        </cmd>
+        <cmd  comp="Input" id="Password" action="DoubleTap" args="138 18" mods="%thinktime=500 %timeout=2000" raw="Input Password DoubleTap 138 18 %thinktime=500 %timeout=2000" idx="10" start="1431626628119" stop="1431626631397" duration="3.278" result="ok">
+        </cmd>
+        <cmd  comp="Input" id="Password" action="Tap" mods="%thinktime=500 %timeout=2000" raw="Input Password Tap %thinktime=500 %timeout=2000" idx="11" start="1431626631398" stop="1431626635082" duration="3.684" result="ok">
+        </cmd>
+        <cmd  comp="Input" id="Password" action="Tap" mods="%thinktime=500 %timeout=2000" raw="Input Password Tap %thinktime=500 %timeout=2000" idx="12" start="1431626635082" stop="1431626639179" duration="4.097" result="ok">
+        </cmd>
+        <cmd  comp="Button" id="Login" action="Tap" mods="%thinktime=500 %timeout=2000" raw="Button Login Tap %thinktime=500 %timeout=2000" idx="13" start="1431626639179" stop="1431626642891" duration="3.712" result="ok">
+        </cmd>
+        <cmd  comp="Input" id="Password" action="Tap" mods="%thinktime=500 %timeout=2000" raw="Input Password Tap %thinktime=500 %timeout=2000" idx="14" start="1431626642891" stop="1431626646145" duration="3.254" result="ok">
+        </cmd>
+        <cmd  comp="Input" id="Password" action="EnterText" args="gocelt" mods="%thinktime=500 %timeout=2000" raw="Input Password EnterText gocelt %thinktime=500 %timeout=2000" idx="15" start="1431626646145" stop="1431626649603" duration="3.458" result="ok">
+        </cmd>
+        <cmd  comp="Input" id="Password" action="Tap" mods="%thinktime=500 %timeout=2000" raw="Input Password Tap %thinktime=500 %timeout=2000" idx="16" start="1431626649603" stop="1431626652683" duration="3.08" result="ok">
+        </cmd>
+        <cmd  comp="Input" id="Password" action="Tap" mods="%thinktime=500 %timeout=2000" raw="Input Password Tap %thinktime=500 %timeout=2000" idx="17" start="1431626652683" stop="1431626656202" duration="3.519" result="ok">
+        </cmd>
+        <cmd  comp="Input" id="Password" action="DoubleTap" args="96 22" mods="%thinktime=500 %timeout=2000" raw="Input Password DoubleTap 96 22 %thinktime=500 %timeout=2000" idx="18" start="1431626656203" stop="1431626659255" duration="3.052" result="ok">
+        </cmd>
+        <cmd  comp="Input" id="Password" action="Tap" mods="%thinktime=500 %timeout=2000" raw="Input Password Tap %thinktime=500 %timeout=2000" idx="19" start="1431626659255" stop="1431626662935" duration="3.68" result="ok">
+        </cmd>
+        <cmd  comp="Input" id="Password" action="EnterText" args="goceltics" mods="%thinktime=500 %timeout=2000" raw="Input Password EnterText goceltics %thinktime=500 %timeout=2000" idx="20" start="1431626662935" stop="1431626667030" duration="4.095" result="ok">
+        </cmd>
+        <cmd  comp="Button" id="Login" action="Tap" mods="%thinktime=500 %timeout=2000" raw="Button Login Tap %thinktime=500 %timeout=2000" idx="21" start="1431626667030" stop="1431626670742" duration="3.712" result="ok">
+        </cmd>
+    </script>
+</detail>

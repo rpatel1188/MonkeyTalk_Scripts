@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<detail  generated="2015-06-02 16:54:13.773 EDT" projectPath="/Users/RonakPatel/monkeytalk/workspace/TomorrowLandDemo" agent="iOS v2.0.10_4 - 2014-12-13 17:09:42 EST" runner="MonkeyTalk IDE v2.0.10_4 - 2014-12-13 17:07:55 EST">
+    <script  comp="Script" id="CSVQuestion.mt" action="Run" mods="%thinktime=500 %timeout=2000" raw="Script CSVQuestion.mt Run %thinktime=500 %timeout=2000" idx="1" start="1433278453771" stop="1433278453771" duration="0.0" result="error">
+        <script  comp="Script" id="Questions.mt" action="RunWith" args="questionanswer1.csv" mods="%thinktime=500 %timeout=2000" raw="Script Questions.mt RunWith questionanswer1.csv %thinktime=500 %timeout=2000" idx="2" start="1433278453771" stop="1433278453771" duration="0.0" result="error">
+            <msg><![CDATA[datafile 'questionanswer1.csv' not found]]>
+            </msg>
+        </script>
+    </script>
+</detail>

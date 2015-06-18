@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<detail  generated="2014-10-28 10:18:50.099 EDT" projectPath="/Users/RonakPatel/monkeytalk/workspace/MonkeyProjectSanta" agent="AndroidEmulator v2.0.1_257 - 2014-01-29 08:31:55 MST" runner="MonkeyTalk IDE v2.0.9-SNAPSHOT_488 - 2014-08-13 17:32:34 MDT">
+    <script  comp="Script" id="JetPack1.mt" action="Run" mods="%thinktime=500 %timeout=2000" raw="Script JetPack1.mt Run %thinktime=500 %timeout=2000" idx="1" start="1414505848229" stop="1414505930060" duration="81.831" result="ok">
+        <cmd  comp="Button" id="Snow Globe" action="tap" args="751 45" mods="%thinktime=500 %timeout=2000" raw="Button &quot;Snow Globe&quot; tap 751 45 %thinktime=500 %timeout=2000" idx="2" start="1414505848256" stop="1414505853340" duration="5.084" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="bottom_handle" action="tap" args="58 34" mods="%thinktime=500 %timeout=2000" raw="Image bottom_handle tap 58 34 %thinktime=500 %timeout=2000" idx="3" start="1414505853340" stop="1414505858422" duration="5.082" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="#8" action="tap" args="95 47" mods="%thinktime=500 %timeout=2000" raw="Image #8 tap 95 47 %thinktime=500 %timeout=2000" idx="4" start="1414505858422" stop="1414505863523" duration="5.101" result="ok">
+            <msg><![CDATA[View with monkeyID panel is being clipped. View with monkeyID ornament_container is being clipped. Image with monkeyID camera_button is being clipped. Image with monkeyID #9 is being clipped. Image with monkeyID #8 is being clipped. Image with monkeyID #10 is being clipped. Image with monkeyID #11 is being clipped. Image with monkeyID #12 is being clipped. Image with monkeyID #13 is being clipped. Image with monkeyID #14 is being clipped. Image with monkeyID #15 is being clipped. Image with monkeyID #2 is being clipped. ]]>
+            </msg>
+        </cmd>
+        <cmd  comp="Image" id="#9" action="tap" args="62 49" mods="%thinktime=500 %timeout=2000" raw="Image #9 tap 62 49 %thinktime=500 %timeout=2000" idx="5" start="1414505863523" stop="1414505868574" duration="5.051" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="#10" action="tap" args="60 41" mods="%thinktime=500 %timeout=2000" raw="Image #10 tap 60 41 %thinktime=500 %timeout=2000" idx="6" start="1414505868574" stop="1414505873648" duration="5.074" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="#11" action="tap" args="46 74" mods="%thinktime=500 %timeout=2000" raw="Image #11 tap 46 74 %thinktime=500 %timeout=2000" idx="7" start="1414505873648" stop="1414505878724" duration="5.076" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="#12" action="tap" args="55 37" mods="%thinktime=500 %timeout=2000" raw="Image #12 tap 55 37 %thinktime=500 %timeout=2000" idx="8" start="1414505878724" stop="1414505883808" duration="5.084" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="#13" action="tap" args="48 63" mods="%thinktime=500 %timeout=2000" raw="Image #13 tap 48 63 %thinktime=500 %timeout=2000" idx="9" start="1414505883808" stop="1414505888897" duration="5.089" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="#14" action="tap" args="56 60" mods="%thinktime=500 %timeout=2000" raw="Image #14 tap 56 60 %thinktime=500 %timeout=2000" idx="10" start="1414505888897" stop="1414505894004" duration="5.107" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="#15" action="tap" args="49 50" mods="%thinktime=500 %timeout=2000" raw="Image #15 tap 49 50 %thinktime=500 %timeout=2000" idx="11" start="1414505894004" stop="1414505899112" duration="5.108" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="bottom_handle" action="tap" args="54 36" mods="%thinktime=500 %timeout=2000" raw="Image bottom_handle tap 54 36 %thinktime=500 %timeout=2000" idx="12" start="1414505899112" stop="1414505904141" duration="5.029" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="nav_button" action="tap" args="48 27" mods="%thinktime=500 %timeout=2000" raw="Image nav_button tap 48 27 %thinktime=500 %timeout=2000" idx="13" start="1414505904141" stop="1414505904671" duration="0.53" result="ok">
+        </cmd>
+        <cmd  comp="Button" id="Jet Pack Elf" action="tap" args="968 48" mods="%thinktime=500 %timeout=2000" raw="Button &quot;Jet Pack Elf&quot; tap 968 48 %thinktime=500 %timeout=2000" idx="14" start="1414505904671" stop="1414505909710" duration="5.039" result="ok">
+        </cmd>
+        <cmd  comp="View" id="control_view" action="TouchDown" args="1140 702" mods="%thinktime=500 %timeout=2000" raw="View control_view TouchDown 1140 702 %thinktime=500 %timeout=2000" idx="15" start="1414505909710" stop="1414505911912" duration="2.202" result="ok">
+        </cmd>
+        <cmd  comp="View" id="control_view" action="Tap" args="663 648" mods="%thinktime=500 %timeout=2000" raw="View control_view Tap 663 648 %thinktime=500 %timeout=2000" idx="16" start="1414505911912" stop="1414505914203" duration="2.291" result="ok">
+            <msg><![CDATA[View with monkeyID #2 is being clipped. View with monkeyID #3 is being clipped. View with monkeyID #4 is being clipped. View with monkeyID #5 is being clipped. View with monkeyID #6 is being clipped. View with monkeyID #7 is being clipped. View with monkeyID #8 is being clipped. View with monkeyID #9 is being clipped. View with monkeyID #10 is being clipped. View with monkeyID #12 is being clipped. View with monkeyID #13 is being clipped. View with monkeyID #14 is being clipped. View with monkeyID #15 is being clipped. View with monkeyID #16 is being clipped. View with monkeyID #17 is being clipped. View with monkeyID #18 is being clipped. View with monkeyID #19 is being clipped. View with monkeyID #20 is being clipped. ]]>
+            </msg>
+        </cmd>
+        <cmd  comp="View" id="control_view" action="TouchDown" args="262 664" mods="%thinktime=500 %timeout=2000" raw="View control_view TouchDown 262 664 %thinktime=500 %timeout=2000" idx="17" start="1414505914203" stop="1414505916393" duration="2.19" result="ok">
+        </cmd>
+        <cmd  comp="View" id="control_view" action="Tap" args="702 804" mods="%thinktime=500 %timeout=2000" raw="View control_view Tap 702 804 %thinktime=500 %timeout=2000" idx="18" start="1414505916393" stop="1414505918625" duration="2.232" result="ok">
+        </cmd>
+        <cmd  comp="View" id="control_view" action="TouchDown" args="875 782" mods="%thinktime=500 %timeout=2000" raw="View control_view TouchDown 875 782 %thinktime=500 %timeout=2000" idx="19" start="1414505918625" stop="1414505920852" duration="2.227" result="ok">
+        </cmd>
+        <cmd  comp="View" id="control_view" action="Tap" args="1033 792" mods="%thinktime=500 %timeout=2000" raw="View control_view Tap 1033 792 %thinktime=500 %timeout=2000" idx="20" start="1414505920853" stop="1414505923056" duration="2.203" result="ok">
+        </cmd>
+        <cmd  comp="View" id="control_view" action="TouchDown" args="1041 753" mods="%thinktime=500 %timeout=2000" raw="View control_view TouchDown 1041 753 %thinktime=500 %timeout=2000" idx="21" start="1414505923056" stop="1414505925255" duration="2.199" result="ok">
+        </cmd>
+        <cmd  comp="View" id="control_view" action="Tap" args="976 777" mods="%thinktime=500 %timeout=2000" raw="View control_view Tap 976 777 %thinktime=500 %timeout=2000" idx="22" start="1414505925255" stop="1414505927449" duration="2.194" result="ok">
+        </cmd>
+        <cmd  comp="Device" id="*" action="back" mods="%thinktime=500 %timeout=2000" raw="Device * back %thinktime=500 %timeout=2000" idx="23" start="1414505927449" stop="1414505927963" duration="0.514" result="ok">
+        </cmd>
+        <cmd  comp="Button" id="Snow Globe" action="tap" args="703 61" mods="%thinktime=500 %timeout=2000" raw="Button &quot;Snow Globe&quot; tap 703 61 %thinktime=500 %timeout=2000" idx="24" start="1414505927963" stop="1414505928500" duration="0.537" result="ok">
+        </cmd>
+        <cmd  comp="Device" id="*" action="back" mods="%thinktime=500 %timeout=2000" raw="Device * back %thinktime=500 %timeout=2000" idx="25" start="1414505928500" stop="1414505929020" duration="0.52" result="ok">
+        </cmd>
+        <cmd  comp="Button" id="Jet Pack Elf" action="tap" args="601 52" mods="%thinktime=500 %timeout=2000" raw="Button &quot;Jet Pack Elf&quot; tap 601 52 %thinktime=500 %timeout=2000" idx="26" start="1414505929020" stop="1414505929536" duration="0.516" result="ok">
+        </cmd>
+        <cmd  comp="Device" id="*" action="back" mods="%thinktime=500 %timeout=2000" raw="Device * back %thinktime=500 %timeout=2000" idx="27" start="1414505929536" stop="1414505930060" duration="0.524" result="ok">
+            <msg><![CDATA[Image with monkeyID camera_button is being clipped. View with monkeyID ornament_container is being clipped. View with monkeyID panel is being clipped. ]]>
+            </msg>
+        </cmd>
+    </script>
+</detail>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<detail  generated="2015-05-29 14:46:11.848 EDT" projectPath="/Users/RonakPatel/monkeytalk/workspace/TomorrowLandDemo" agent="iOS v2.0.10_4 - 2014-12-13 17:09:42 EST" runner="MonkeyTalk IDE v2.0.10_4 - 2014-12-13 17:07:55 EST">
+    <script  comp="Script" id="TestSuiteTrivaQuestions.mt" action="Run" mods="%thinktime=500 %timeout=2000" raw="Script TestSuiteTrivaQuestions.mt Run %thinktime=500 %timeout=2000" idx="1" start="1432925129241" stop="1432925171846" duration="42.605" result="ok">
+        <cmd  comp="Table" id="_tableView" action="SelectIndex" args="1" mods="%thinktime=500 %timeout=2000" raw="Table _tableView SelectIndex 1 %thinktime=500 %timeout=2000" idx="2" start="1432925129241" stop="1432925132763" duration="3.522" result="ok">
+        </cmd>
+        <cmd  comp="TLChoiceButton" id="The Morgue" action="Tap" mods="%thinktime=500 %timeout=2000" raw="TLChoiceButton &quot;The Morgue&quot; Tap %thinktime=500 %timeout=2000" idx="3" start="1432925132763" stop="1432925135804" duration="3.041" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="*" action="Verify" args="icn_check_correct" mods="%thinktime=500 %timeout=2000" raw="Image * Verify icn_check_correct %thinktime=500 %timeout=2000" idx="4" start="1432925135804" stop="1432925137861" duration="2.057" result="ok">
+        </cmd>
+        <cmd  comp="Button" id="Trivia" action="Tap" args="52 24" mods="%thinktime=500 %timeout=2000" raw="Button Trivia Tap 52 24 %thinktime=500 %timeout=2000" idx="5" start="1432925137861" stop="1432925139885" duration="2.024" result="ok">
+        </cmd>
+        <cmd  comp="Table" id="_tableView" action="SelectIndex" args="2" mods="%thinktime=500 %timeout=2000" raw="Table _tableView SelectIndex 2 %thinktime=500 %timeout=2000" idx="6" start="1432925139885" stop="1432925142309" duration="2.424" result="ok">
+        </cmd>
+        <cmd  comp="TLChoiceButton" id="Unisphere" action="Tap" mods="%thinktime=500 %timeout=2000" raw="TLChoiceButton Unisphere Tap %thinktime=500 %timeout=2000" idx="7" start="1432925142309" stop="1432925144376" duration="2.067" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="*" action="Verify" args="icn_x_wrong" mods="%thinktime=500 %timeout=2000" raw="Image * Verify icn_x_wrong %thinktime=500 %timeout=2000" idx="8" start="1432925144376" stop="1432925146391" duration="2.015" result="ok">
+        </cmd>
+        <cmd  comp="Button" id="Trivia" action="Tap" args="48 32" mods="%thinktime=500 %timeout=2000" raw="Button Trivia Tap 48 32 %thinktime=500 %timeout=2000" idx="9" start="1432925146391" stop="1432925148406" duration="2.015" result="ok">
+        </cmd>
+        <cmd  comp="Table" id="_tableView" action="SelectIndex" args="3" mods="%thinktime=500 %timeout=2000" raw="Table _tableView SelectIndex 3 %thinktime=500 %timeout=2000" idx="10" start="1432925148406" stop="1432925150818" duration="2.412" result="ok">
+        </cmd>
+        <cmd  comp="TLChoiceButton" id="A Morgue" action="Tap" mods="%thinktime=500 %timeout=2000" raw="TLChoiceButton &quot;A Morgue&quot; Tap %thinktime=500 %timeout=2000" idx="11" start="1432925150818" stop="1432925152869" duration="2.051" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="*" action="Verify" args="icn_x_wrong" mods="%thinktime=500 %timeout=2000" raw="Image * Verify icn_x_wrong %thinktime=500 %timeout=2000" idx="12" start="1432925152869" stop="1432925154885" duration="2.016" result="ok">
+        </cmd>
+        <cmd  comp="Button" id="Trivia" action="Tap" args="22 31" mods="%thinktime=500 %timeout=2000" raw="Button Trivia Tap 22 31 %thinktime=500 %timeout=2000" idx="13" start="1432925154886" stop="1432925156905" duration="2.019" result="ok">
+        </cmd>
+        <cmd  comp="Table" id="_tableView" action="SelectIndex" args="4" mods="%thinktime=500 %timeout=2000" raw="Table _tableView SelectIndex 4 %thinktime=500 %timeout=2000" idx="14" start="1432925156906" stop="1432925159332" duration="2.426" result="ok">
+        </cmd>
+        <cmd  comp="TLChoiceButton" id="A Disney Character" action="Tap" mods="%thinktime=500 %timeout=2000" raw="TLChoiceButton &quot;A Disney Character&quot; Tap %thinktime=500 %timeout=2000" idx="15" start="1432925159332" stop="1432925161370" duration="2.038" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="*" action="Verify" args="icn_x_wrong" mods="%thinktime=500 %timeout=2000" raw="Image * Verify icn_x_wrong %thinktime=500 %timeout=2000" idx="16" start="1432925161370" stop="1432925163385" duration="2.015" result="ok">
+        </cmd>
+        <cmd  comp="Button" id="Trivia" action="Tap" args="36 26" mods="%thinktime=500 %timeout=2000" raw="Button Trivia Tap 36 26 %thinktime=500 %timeout=2000" idx="17" start="1432925163385" stop="1432925165408" duration="2.023" result="ok">
+        </cmd>
+        <cmd  comp="Table" id="_tableView" action="SelectIndex" args="5" mods="%thinktime=500 %timeout=2000" raw="Table _tableView SelectIndex 5 %thinktime=500 %timeout=2000" idx="18" start="1432925165408" stop="1432925167822" duration="2.414" result="ok">
+        </cmd>
+        <cmd  comp="TLChoiceButton" id="Science Factual" action="Tap" mods="%thinktime=500 %timeout=2000" raw="TLChoiceButton &quot;Science Factual&quot; Tap %thinktime=500 %timeout=2000" idx="19" start="1432925167822" stop="1432925169834" duration="2.012" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="*" action="Verify" args="icn_check_correct" mods="%thinktime=500 %timeout=2000" raw="Image * Verify icn_check_correct %thinktime=500 %timeout=2000" idx="20" start="1432925169834" stop="1432925171846" duration="2.012" result="ok">
+        </cmd>
+    </script>
+</detail>

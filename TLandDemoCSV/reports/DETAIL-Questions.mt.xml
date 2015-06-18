@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<detail  generated="2015-06-02 17:26:56.505 EDT" projectPath="/Users/RonakPatel/monkeytalk/workspace/TLandDemoCSV" agent="iOS v2.0.10_4 - 2014-12-13 17:09:42 EST" runner="MonkeyTalk IDE v2.0.10_4 - 2014-12-13 17:07:55 EST">
+    <script  comp="Script" id="Questions.mt" action="Run" mods="%thinktime=500 %timeout=2000" raw="Script Questions.mt Run %thinktime=500 %timeout=2000" idx="1" start="1433280412454" stop="1433280416503" duration="4.049" screenshot="screenshots/screenshot_2015-06-02_172656.png" result="failure">
+        <cmd  comp="Table" id="_tableView" action="SelectIndex" args="1" mods="%thinktime=500 %timeout=2000" raw="Table _tableView SelectIndex 1 %thinktime=500 %timeout=2000" idx="2" start="1433280412454" stop="1433280413373" duration="0.919" result="ok">
+        </cmd>
+        <cmd  comp="Vars" id="*" action="Define" args="question answer" mods="%thinktime=500 %timeout=2000" raw="Vars * Define question answer %thinktime=500 %timeout=2000" idx="3" start="1433280413374" stop="1433280413374" duration="0.0" result="ok">
+        </cmd>
+        <cmd  comp="UILabel" id="*" action="Verify" args="Question" mods="%thinktime=500 %timeout=2000" raw="UILabel * Verify Question %thinktime=500 %timeout=2000" idx="4" start="1433280413374" stop="1433280413882" duration="0.508" result="ok">
+        </cmd>
+        <cmd  comp="UILabel" id="answer" action="Verify" args="&lt;answer&gt;" mods="%thinktime=500 %timeout=2000" raw="UILabel answer Verify &lt;answer&gt; %thinktime=500 %timeout=2000" idx="5" start="1433280413882" stop="1433280416503" duration="2.621" screenshot="screenshots/screenshot_2015-06-02_172656.png" result="failure">
+            <msg><![CDATA[No Label found with monkeyID "answer"]]>
+            </msg>
+        </cmd>
+    </script>
+</detail>

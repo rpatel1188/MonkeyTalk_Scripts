@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<detail  generated="2014-10-20 11:52:06.860 EDT" projectPath="/Users/RonakPatel/monkeytalk/workspace/MonkeyProjectSanta" agent="AndroidEmulator v2.0.1_257 - 2014-01-29 08:31:55 MST" runner="MonkeyTalk IDE v2.0.9-SNAPSHOT_488 - 2014-08-13 17:32:34 MDT">
+    <script  comp="Script" id="SNowGLobe2.mt" action="Run" mods="%thinktime=500 %timeout=2000" raw="Script SNowGLobe2.mt Run %thinktime=500 %timeout=2000" idx="1" start="1413820294299" stop="1413820326814" duration="32.515" result="ok">
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe left %thinktime=500 %timeout=2000" idx="2" start="1413820294324" stop="1413820294993" duration="0.669" result="ok">
+            <msg><![CDATA[Image with monkeyID #2 is being clipped. Image with monkeyID #10 is being clipped. Image with monkeyID #13 is being clipped. Image with monkeyID #14 is being clipped. Image with monkeyID #15 is being clipped. Image with monkeyID #11 is being clipped. View with monkeyID ornament_container is being clipped. Image with monkeyID #9 is being clipped. Image with monkeyID #12 is being clipped. Image with monkeyID camera_button is being clipped. View with monkeyID panel is being clipped. ]]>
+            </msg>
+        </cmd>
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe left %thinktime=500 %timeout=2000" idx="3" start="1413820294993" stop="1413820295529" duration="0.536" result="ok">
+        </cmd>
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe left %thinktime=500 %timeout=2000" idx="4" start="1413820295529" stop="1413820296065" duration="0.536" result="ok">
+            <msg><![CDATA[Image with monkeyID #3 is being clipped. ]]>
+            </msg>
+        </cmd>
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe left %thinktime=500 %timeout=2000" idx="5" start="1413820296065" stop="1413820296622" duration="0.557" result="ok">
+            <msg><![CDATA[Image with monkeyID #3 is being clipped. ]]>
+            </msg>
+        </cmd>
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="right" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe right %thinktime=500 %timeout=2000" idx="6" start="1413820296622" stop="1413820297158" duration="0.536" result="ok">
+        </cmd>
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="right" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe right %thinktime=500 %timeout=2000" idx="7" start="1413820297159" stop="1413820297686" duration="0.527" result="ok">
+        </cmd>
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="right" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe right %thinktime=500 %timeout=2000" idx="8" start="1413820297686" stop="1413820298214" duration="0.528" result="ok">
+            <msg><![CDATA[Image with monkeyID #3 is being clipped. ]]>
+            </msg>
+        </cmd>
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="right" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe right %thinktime=500 %timeout=2000" idx="9" start="1413820298214" stop="1413820298742" duration="0.528" result="ok">
+            <msg><![CDATA[Image with monkeyID #3 is being clipped. ]]>
+            </msg>
+        </cmd>
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe left %thinktime=500 %timeout=2000" idx="10" start="1413820298742" stop="1413820299275" duration="0.533" result="ok">
+        </cmd>
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe left %thinktime=500 %timeout=2000" idx="11" start="1413820299275" stop="1413820299817" duration="0.542" result="ok">
+        </cmd>
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe left %thinktime=500 %timeout=2000" idx="12" start="1413820299817" stop="1413820300354" duration="0.537" result="ok">
+            <msg><![CDATA[Image with monkeyID #3 is being clipped. ]]>
+            </msg>
+        </cmd>
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe left %thinktime=500 %timeout=2000" idx="13" start="1413820300354" stop="1413820300899" duration="0.545" result="ok">
+            <msg><![CDATA[Image with monkeyID #3 is being clipped. ]]>
+            </msg>
+        </cmd>
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="right" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe right %thinktime=500 %timeout=2000" idx="14" start="1413820300899" stop="1413820301429" duration="0.53" result="ok">
+        </cmd>
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="right" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe right %thinktime=500 %timeout=2000" idx="15" start="1413820301429" stop="1413820301961" duration="0.532" result="ok">
+        </cmd>
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="right" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe right %thinktime=500 %timeout=2000" idx="16" start="1413820301961" stop="1413820302489" duration="0.528" result="ok">
+            <msg><![CDATA[Image with monkeyID #3 is being clipped. ]]>
+            </msg>
+        </cmd>
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="right" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe right %thinktime=500 %timeout=2000" idx="17" start="1413820302489" stop="1413820303033" duration="0.544" result="ok">
+            <msg><![CDATA[Image with monkeyID #3 is being clipped. ]]>
+            </msg>
+        </cmd>
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="right" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe right %thinktime=500 %timeout=2000" idx="18" start="1413820303033" stop="1413820303570" duration="0.537" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="undo_button" action="tap" args="21 42" mods="%thinktime=500 %timeout=2000" raw="Image undo_button tap 21 42 %thinktime=500 %timeout=2000" idx="19" start="1413820303571" stop="1413820304107" duration="0.536" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="undo_button" action="tap" args="27 41" mods="%thinktime=500 %timeout=2000" raw="Image undo_button tap 27 41 %thinktime=500 %timeout=2000" idx="20" start="1413820304107" stop="1413820304638" duration="0.531" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="undo_button" action="tap" args="20 41" mods="%thinktime=500 %timeout=2000" raw="Image undo_button tap 20 41 %thinktime=500 %timeout=2000" idx="21" start="1413820304638" stop="1413820305165" duration="0.527" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="share_button" action="tap" args="49 38" mods="%thinktime=500 %timeout=2000" raw="Image share_button tap 49 38 %thinktime=500 %timeout=2000" idx="22" start="1413820305165" stop="1413820305694" duration="0.529" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="share_button" action="tap" args="54 36" mods="%thinktime=500 %timeout=2000" raw="Image share_button tap 54 36 %thinktime=500 %timeout=2000" idx="23" start="1413820305694" stop="1413820306220" duration="0.526" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="share_button" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="Image share_button swipe left %thinktime=500 %timeout=2000" idx="24" start="1413820306220" stop="1413820306767" duration="0.547" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="bottom_handle" action="tap" args="28 18" mods="%thinktime=500 %timeout=2000" raw="Image bottom_handle tap 28 18 %thinktime=500 %timeout=2000" idx="25" start="1413820306767" stop="1413820307299" duration="0.532" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="bottom_handle" action="tap" args="48 30" mods="%thinktime=500 %timeout=2000" raw="Image bottom_handle tap 48 30 %thinktime=500 %timeout=2000" idx="26" start="1413820307300" stop="1413820307835" duration="0.535" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="bottom_handle" action="tap" args="41 22" mods="%thinktime=500 %timeout=2000" raw="Image bottom_handle tap 41 22 %thinktime=500 %timeout=2000" idx="27" start="1413820307835" stop="1413820308365" duration="0.53" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="bottom_handle" action="tap" args="43 40" mods="%thinktime=500 %timeout=2000" raw="Image bottom_handle tap 43 40 %thinktime=500 %timeout=2000" idx="28" start="1413820308366" stop="1413820308903" duration="0.537" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="bottom_handle" action="tap" args="43 68" mods="%thinktime=500 %timeout=2000" raw="Image bottom_handle tap 43 68 %thinktime=500 %timeout=2000" idx="29" start="1413820308903" stop="1413820309434" duration="0.531" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="bottom_handle" action="tap" args="32 31" mods="%thinktime=500 %timeout=2000" raw="Image bottom_handle tap 32 31 %thinktime=500 %timeout=2000" idx="30" start="1413820309434" stop="1413820309970" duration="0.536" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="bottom_handle" action="tap" args="26 63" mods="%thinktime=500 %timeout=2000" raw="Image bottom_handle tap 26 63 %thinktime=500 %timeout=2000" idx="31" start="1413820309970" stop="1413820310500" duration="0.53" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="bottom_handle" action="tap" args="35 39" mods="%thinktime=500 %timeout=2000" raw="Image bottom_handle tap 35 39 %thinktime=500 %timeout=2000" idx="32" start="1413820310500" stop="1413820311038" duration="0.538" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="bottom_handle" action="tap" args="39 72" mods="%thinktime=500 %timeout=2000" raw="Image bottom_handle tap 39 72 %thinktime=500 %timeout=2000" idx="33" start="1413820311038" stop="1413820311570" duration="0.532" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="#12" action="tap" args="86 63" mods="%thinktime=500 %timeout=2000" raw="Image #12 tap 86 63 %thinktime=500 %timeout=2000" idx="34" start="1413820311570" stop="1413820312230" duration="0.66" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="bottom_handle" action="tap" args="36 28" mods="%thinktime=500 %timeout=2000" raw="Image bottom_handle tap 36 28 %thinktime=500 %timeout=2000" idx="35" start="1413820312230" stop="1413820312759" duration="0.529" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="#11" action="tap" args="46 70" mods="%thinktime=500 %timeout=2000" raw="Image #11 tap 46 70 %thinktime=500 %timeout=2000" idx="36" start="1413820312759" stop="1413820313355" duration="0.596" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="bottom_handle" action="tap" args="40 33" mods="%thinktime=500 %timeout=2000" raw="Image bottom_handle tap 40 33 %thinktime=500 %timeout=2000" idx="37" start="1413820313355" stop="1413820313892" duration="0.537" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="#10" action="tap" args="52 46" mods="%thinktime=500 %timeout=2000" raw="Image #10 tap 52 46 %thinktime=500 %timeout=2000" idx="38" start="1413820313893" stop="1413820314501" duration="0.608" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="bottom_handle" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="Image bottom_handle swipe left %thinktime=500 %timeout=2000" idx="39" start="1413820314501" stop="1413820315046" duration="0.545" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="#9" action="tap" args="54 81" mods="%thinktime=500 %timeout=2000" raw="Image #9 tap 54 81 %thinktime=500 %timeout=2000" idx="40" start="1413820315046" stop="1413820315607" duration="0.561" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="bottom_handle" action="tap" args="40 31" mods="%thinktime=500 %timeout=2000" raw="Image bottom_handle tap 40 31 %thinktime=500 %timeout=2000" idx="41" start="1413820315607" stop="1413820316156" duration="0.549" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="#8" action="tap" args="52 53" mods="%thinktime=500 %timeout=2000" raw="Image #8 tap 52 53 %thinktime=500 %timeout=2000" idx="42" start="1413820316156" stop="1413820316711" duration="0.555" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="bottom_handle" action="tap" args="37 31" mods="%thinktime=500 %timeout=2000" raw="Image bottom_handle tap 37 31 %thinktime=500 %timeout=2000" idx="43" start="1413820316711" stop="1413820317255" duration="0.544" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="#13" action="tap" args="59 42" mods="%thinktime=500 %timeout=2000" raw="Image #13 tap 59 42 %thinktime=500 %timeout=2000" idx="44" start="1413820317255" stop="1413820317876" duration="0.621" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="bottom_handle" action="tap" args="30 17" mods="%thinktime=500 %timeout=2000" raw="Image bottom_handle tap 30 17 %thinktime=500 %timeout=2000" idx="45" start="1413820317876" stop="1413820318408" duration="0.532" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="#14" action="tap" args="49 68" mods="%thinktime=500 %timeout=2000" raw="Image #14 tap 49 68 %thinktime=500 %timeout=2000" idx="46" start="1413820318408" stop="1413820319072" duration="0.664" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="bottom_handle" action="tap" args="45 28" mods="%thinktime=500 %timeout=2000" raw="Image bottom_handle tap 45 28 %thinktime=500 %timeout=2000" idx="47" start="1413820319072" stop="1413820319602" duration="0.53" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="#15" action="tap" args="73 77" mods="%thinktime=500 %timeout=2000" raw="Image #15 tap 73 77 %thinktime=500 %timeout=2000" idx="48" start="1413820319602" stop="1413820320253" duration="0.651" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="bottom_handle" action="tap" args="50 47" mods="%thinktime=500 %timeout=2000" raw="Image bottom_handle tap 50 47 %thinktime=500 %timeout=2000" idx="49" start="1413820320254" stop="1413820320788" duration="0.534" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="#15" action="tap" args="68 80" mods="%thinktime=500 %timeout=2000" raw="Image #15 tap 68 80 %thinktime=500 %timeout=2000" idx="50" start="1413820320789" stop="1413820321455" duration="0.666" result="ok">
+        </cmd>
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="right" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe right %thinktime=500 %timeout=2000" idx="51" start="1413820321455" stop="1413820321975" duration="0.52" result="ok">
+        </cmd>
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe left %thinktime=500 %timeout=2000" idx="52" start="1413820321975" stop="1413820322507" duration="0.532" result="ok">
+        </cmd>
+        <cmd  comp="View" id="background_image_pager" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="View background_image_pager swipe left %thinktime=500 %timeout=2000" idx="53" start="1413820322507" stop="1413820323049" duration="0.542" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="bottom_handle" action="tap" args="46 67" mods="%thinktime=500 %timeout=2000" raw="Image bottom_handle tap 46 67 %thinktime=500 %timeout=2000" idx="54" start="1413820323049" stop="1413820323597" duration="0.548" result="ok">
+            <msg><![CDATA[Image with monkeyID #3 is being clipped. ]]>
+            </msg>
+        </cmd>
+        <cmd  comp="Image" id="camera_button" action="tap" args="117 62" mods="%thinktime=500 %timeout=2000" raw="Image camera_button tap 117 62 %thinktime=500 %timeout=2000" idx="55" start="1413820323597" stop="1413820324169" duration="0.572" result="ok">
+            <msg><![CDATA[Image with monkeyID #3 is being clipped. ]]>
+            </msg>
+        </cmd>
+        <cmd  comp="Image" id="take_picture" action="tap" args="63 63" mods="%thinktime=500 %timeout=2000" raw="Image take_picture tap 63 63 %thinktime=500 %timeout=2000" idx="56" start="1413820324169" stop="1413820325126" duration="0.957" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="retry_picture" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="Image retry_picture swipe left %thinktime=500 %timeout=2000" idx="57" start="1413820325127" stop="1413820325782" duration="0.655" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="take_picture" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="Image take_picture swipe left %thinktime=500 %timeout=2000" idx="58" start="1413820325782" stop="1413820326298" duration="0.516" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="take_picture" action="swipe" args="left" mods="%thinktime=500 %timeout=2000" raw="Image take_picture swipe left %thinktime=500 %timeout=2000" idx="59" start="1413820326298" stop="1413820326814" duration="0.516" result="ok">
+        </cmd>
+    </script>
+</detail>

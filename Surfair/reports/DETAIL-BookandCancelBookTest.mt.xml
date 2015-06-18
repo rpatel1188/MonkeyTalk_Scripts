@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<detail  generated="2015-05-14 14:29:36.653 EDT" projectPath="/Users/RonakPatel/monkeytalk/workspace/Surfair" agent="iOS v2.0.10_4 - 2014-12-13 17:10:07 EST" runner="MonkeyTalk IDE v2.0.10_4 - 2014-12-13 17:07:55 EST">
+    <script  comp="Script" id="BookandCancelBookTest.mt" action="Run" mods="%thinktime=500 %timeout=2000" raw="Script BookandCancelBookTest.mt Run %thinktime=500 %timeout=2000" idx="1" start="1431628144878" stop="1431628176644" duration="31.766" screenshot="screenshots/screenshot_2015-05-14_142936.png" result="failure">
+        <cmd  comp="View" id="more-menu-button" action="tap" mods="%thinktime=500 %timeout=2000" raw="View more-menu-button tap %thinktime=500 %timeout=2000" idx="2" start="1431628144878" stop="1431628148568" duration="3.69" result="ok">
+        </cmd>
+        <cmd  comp="View" id="sidenav-txt" action="tap" mods="%thinktime=500 %timeout=2000" raw="View sidenav-txt tap %thinktime=500 %timeout=2000" idx="3" start="1431628148568" stop="1431628152665" duration="4.097" result="ok">
+        </cmd>
+        <cmd  comp="View" id="sidenav-txt" action="tap" mods="%thinktime=500 %timeout=2000" raw="View sidenav-txt tap %thinktime=500 %timeout=2000" idx="4" start="1431628152665" stop="1431628153331" duration="0.666" result="ok">
+        </cmd>
+        <cmd  comp="View" id="icon-more" action="tap" mods="%thinktime=500 %timeout=2000" raw="View icon-more tap %thinktime=500 %timeout=2000" idx="5" start="1431628153331" stop="1431628154036" duration="0.705" result="ok">
+        </cmd>
+        <cmd  comp="View" id="icon-more" action="tap" mods="%thinktime=500 %timeout=2000" raw="View icon-more tap %thinktime=500 %timeout=2000" idx="6" start="1431628154036" stop="1431628154715" duration="0.679" result="ok">
+        </cmd>
+        <cmd  comp="View" id="sidenav-txt" action="tap" mods="%thinktime=500 %timeout=2000" raw="View sidenav-txt tap %thinktime=500 %timeout=2000" idx="7" start="1431628154715" stop="1431628160037" duration="5.322" result="ok">
+        </cmd>
+        <cmd  comp="View" id="sidenav-txt" action="tap" mods="%thinktime=500 %timeout=2000" raw="View sidenav-txt tap %thinktime=500 %timeout=2000" idx="8" start="1431628160037" stop="1431628164541" duration="4.504" result="ok">
+        </cmd>
+        <cmd  comp="View" id="from-airports" action="Tap" mods="%thinktime=500 %timeout=2000" raw="View from-airports Tap %thinktime=500 %timeout=2000" idx="9" start="1431628164541" stop="1431628172736" duration="8.195" result="ok">
+        </cmd>
+        <cmd  comp="View" id="from-airports" action="Tap" mods="%thinktime=500 %timeout=2000" raw="View from-airports Tap %thinktime=500 %timeout=2000" idx="10" start="1431628172736" stop="1431628176644" duration="3.908" screenshot="screenshots/screenshot_2015-05-14_142936.png" result="failure">
+            <msg><![CDATA[No View found with monkeyID "from-airports"]]>
+            </msg>
+        </cmd>
+    </script>
+</detail>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<detail  generated="2014-10-21 17:53:24.066 EDT" projectPath="/Users/RonakPatel/monkeytalk/workspace/CaseableMonkey" agent="AndroidEmulator v2.0.1_257 - 2014-01-29 08:31:55 MST" runner="MonkeyTalk IDE v2.0.9-SNAPSHOT_488 - 2014-08-13 17:32:34 MDT">
+    <script  comp="Script" id="ide" action="Run" mods="%thinktime=500 %timeout=2000" raw="Script ide Run %thinktime=500 %timeout=2000" idx="1" start="1413928398538" stop="1413928403825" duration="5.287" result="ok">
+        <cmd  comp="Device" id="*" action="back" mods="%thinktime=500 %timeout=2000" raw="Device * back %thinktime=500 %timeout=2000" idx="2" start="1413928398567" stop="1413928403825" duration="5.258" result="ok">
+            <msg><![CDATA[View with monkeyID productDetailProgress is being clipped. View with monkeyID #2 is being clipped. View with monkeyID buttons is being clipped. Label with monkeyID productPrice is being clipped. View with monkeyID #3 is being clipped. Button with monkeyID Add to Cart is being clipped. Label with monkeyID productDesignName is being clipped. Label with monkeyID productOwner is being clipped. Label with monkeyID productDeviceName is being clipped. Label with monkeyID productDescription is being clipped. View with monkeyID Product Details, Navigate up is being clipped. View with monkeyID Navigate up is being clipped. Image with monkeyID #2 is being clipped. Image with monkeyID #3 is being clipped. Label with monkeyID #6 is being clipped. Image with monkeyID #5 is being clipped. Image with monkeyID More options is being clipped. ]]>
+            </msg>
+        </cmd>
+    </script>
+</detail>

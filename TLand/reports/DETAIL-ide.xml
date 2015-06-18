@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<detail  generated="2015-05-22 14:43:12.662 EDT" projectPath="/Users/RonakPatel/monkeytalk/workspace/TLand" agent="iOS v2.0.10_4 - 2014-12-13 17:09:42 EST" runner="MonkeyTalk IDE v2.0.10_4 - 2014-12-13 17:07:55 EST">
+    <script  comp="Script" id="ide" action="Run" mods="%thinktime=500 %timeout=2000" raw="Script ide Run %thinktime=500 %timeout=2000" idx="1" start="1432320187476" stop="1432320192661" duration="5.185" screenshot="screenshots/screenshot_2015-05-22_144312.png" result="failure">
+        <cmd  comp="TabBar" id="*" action="Select" args="Trivia" mods="%thinktime=500 %timeout=2000" raw="TabBar * Select Trivia %thinktime=500 %timeout=2000" idx="2" start="1432320187476" stop="1432320187987" duration="0.511" result="ok">
+        </cmd>
+        <cmd  comp="TLLearnMoreButton" id="Yes, I want to play" action="Tap" mods="%thinktime=500 %timeout=2000" raw="TLLearnMoreButton &quot;Yes, I want to play&quot; Tap %thinktime=500 %timeout=2000" idx="3" start="1432320187987" stop="1432320188625" duration="0.638" result="ok">
+        </cmd>
+        <cmd  comp="Table" id="_tableView" action="SelectIndex" args="1" mods="%thinktime=500 %timeout=2000" raw="Table _tableView SelectIndex 1 %thinktime=500 %timeout=2000" idx="4" start="1432320188625" stop="1432320189533" duration="0.908" result="ok">
+        </cmd>
+        <cmd  comp="TLChoiceButton" id="The Morgue" action="Tap" mods="%thinktime=500 %timeout=2000" raw="TLChoiceButton &quot;The Morgue&quot; Tap %thinktime=500 %timeout=2000" idx="5" start="1432320189533" stop="1432320190041" duration="0.508" result="ok">
+        </cmd>
+        <cmd  comp="Table" id="*" action="Verify" args="Correct" mods="%thinktime=500 %timeout=2000" raw="Table * Verify Correct %thinktime=500 %timeout=2000" idx="6" start="1432320190041" stop="1432320192661" duration="2.62" screenshot="screenshots/screenshot_2015-05-22_144312.png" result="failure">
+            <msg><![CDATA[String "Correct" does not match "(null)"]]>
+            </msg>
+        </cmd>
+    </script>
+</detail>

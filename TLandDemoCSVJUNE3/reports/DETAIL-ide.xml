@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<detail  generated="2015-06-03 14:36:50.443 EDT" projectPath="/Users/RonakPatel/monkeytalk/workspace/TLandDemoCSVJUNE3" agent="iOS v2.0.10_4 - 2014-12-13 17:09:42 EST" runner="MonkeyTalk IDE v2.0.10_4 - 2014-12-13 17:07:55 EST">
+    <script  comp="Script" id="ide" action="Run" mods="%thinktime=500 %timeout=2000" raw="Script ide Run %thinktime=500 %timeout=2000" idx="1" start="1433356607795" stop="1433356610442" duration="2.647" screenshot="screenshots/screenshot_2015-06-03_143650.png" result="failure">
+        <cmd  comp="UILabel" id="*" action="Verify" args="${A}" mods="%thinktime=500 %timeout=2000" raw="UILabel * Verify ${A} %thinktime=500 %timeout=2000" idx="2" start="1433356607795" stop="1433356610441" duration="2.646" screenshot="screenshots/screenshot_2015-06-03_143650.png" result="failure">
+            <msg><![CDATA[String "${A}" does not match "QUESTION 1" or "Trivia" or "100% Correct" or "1 OF 20 QUESTIONS ANSWERED" or "Question" or "What is the name of the storage area where the fabled time capsule that inspired the movie Tomorrowland was found?  " or "The Morgue" or "A:" or "Learn More" or "Exhibit" or "Trivia" or "Fun Facts" or "Movie" or "Correct Answer" or "A: The Morgue"]]>
+            </msg>
+        </cmd>
+    </script>
+</detail>

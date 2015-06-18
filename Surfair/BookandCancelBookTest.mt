@@ -1,0 +1,11 @@
+View more-menu-button tap
+View sidenav-txt tap
+View sidenav-txt tap
+View icon-more tap
+View icon-more tap
+View sidenav-txt tap
+View sidenav-txt tap
+View from-airports Tap
+View from-airports Tap
+View ng-binding Tap
+View ng-binding Tap

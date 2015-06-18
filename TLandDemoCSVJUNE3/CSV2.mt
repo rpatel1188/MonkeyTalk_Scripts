@@ -1,0 +1,9 @@
+Vars * define Ccell Qquestion Achoice Bchoice Cchoice Danswer %thinktime=2000
+Table _tableView SelectIndex ${Ccell} %thinktime=2000
+UILabel * Verify ${Qquestion} %thinktime=2000
+UILabel * Verify ${Achoice} %thinktime=2000
+UILabel * Verify ${Bchoice} %thinktime=2000
+UILabel * Verify ${Cchoice} %thinktime=2000
+TLChoiceButton ${Danswer} Tap %thinktime=2000
+UILabel * Verify ${Danswer} %thinktime=2000
+Button Trivia Tap 40 26 %thinktime=5000
